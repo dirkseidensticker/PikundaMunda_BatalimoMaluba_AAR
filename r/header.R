@@ -27,6 +27,7 @@ library(raster)
 library(reshape2)
 library(rnaturalearth)
 library(tidyr)
+library(shadowtext)
 library(sf)
 library(svglite)
 library(geojsonsf)
@@ -44,7 +45,7 @@ c14 <- rbind(
     "https://raw.githubusercontent.com/dirkseidensticker/aDRAC/master/aDRAC.csv", 
     encoding = "UTF-8"),
   data.table::fread(
-    "C:/Users/dirks/OneDrive/Programmieren/aDRACv2_unpubl.csv", 
+    "data/aDRAC_new.csv", 
     dec = ",", 
     encoding = "UTF-8")
 ) %>%
@@ -66,9 +67,9 @@ pottery <- read.csv(
 pottery$FROM <- as.numeric(pottery$FROM)
 pottery$TO <- as.numeric(pottery$TO)
 
-sites <- data.table::fread(
+sites <- read.csv(
   "https://raw.githubusercontent.com/dirkseidensticker/aSCAC/master/sites.csv",
-  encoding = "UTF-8")  %>%
+  encoding = "UTF-8") %>%
   st_as_sf(crs = 4326, 
            coords = c("LONG", 
                       "LAT"), 

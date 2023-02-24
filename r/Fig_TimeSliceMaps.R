@@ -3,7 +3,26 @@
 source("r/header.R")
 source("r/myfct.R")
 
-rivers10 <- rnaturalearth::ne_download(scale = 10, type = "rivers_lake_centerlines", category = "physical", returnclass="sf")
+pottery <- pottery %>% dplyr::filter(REGION %in% LETTERS[4:7])
+
+bayes <- data.table::fread("tbl/tbl_bayesphases_comparison.csv") %>%
+  dplyr::filter(`Pottery Group` != "Ilambi") %>%
+  dplyr::select(1, 3, 5) %>%
+  dplyr::rename("POTTERY" = "Pottery Group", 
+                "FROM" = "Bayesian Start", 
+                "TO" = "Bayesian End")
+
+pottery <- rbind(
+  bayes %>% 
+    dplyr::left_join(pottery %>% dplyr::select(POTTERY, REGION, COL), by = "POTTERY"),
+  pottery %>%
+    dplyr::filter(!POTTERY %in% c(bayes %>% dplyr::pull(POTTERY))) %>%
+    dplyr::select(POTTERY,FROM,TO,REGION, COL))
+
+
+bb <- c(xmin = 14, xmax = 26, ymin = -6, ymax = 6)
+
+rivers10 <- rnaturalearth::ne_download(scale = 10, type = "rivers_lake_centerlines", category = "physical", returnclass="sf") %>% sf::st_crop(bb)
 lakes10 <- rnaturalearth::ne_download(scale = 10, type = "lakes", category = "physical", returnclass="sf")
 
 

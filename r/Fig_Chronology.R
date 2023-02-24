@@ -5,6 +5,24 @@
 source("r/header.R")
 source("r/myfct.R")
 
+# replace conventional start/end with results from bayes phase modeling:
+
+pottery <- pottery %>% dplyr::filter(REGION %in% LETTERS[4:7])
+
+bayes <- data.table::fread("tbl/tbl_bayesphases_comparison.csv") %>%
+  dplyr::filter(`Pottery Group` != "Ilambi") %>%
+  dplyr::select(1, 3, 5) %>%
+  dplyr::rename("POTTERY" = "Pottery Group", 
+                "FROM" = "Bayesian Start", 
+                "TO" = "Bayesian End")
+
+pottery <- rbind(
+  bayes %>% 
+    dplyr::left_join(pottery %>% dplyr::select(POTTERY, REGION, COL), by = "POTTERY"),
+  pottery %>%
+    dplyr::filter(!POTTERY %in% c(bayes %>% dplyr::pull(POTTERY))) %>%
+    dplyr::select(POTTERY,FROM,TO,REGION, COL))
+
 # LOOP ----
 # All dates/styles ----
 datalist <- list()
@@ -12,7 +30,7 @@ filterlist <- list()
 a.sel.list <- list()
 cnt <- 1
 
-id.lst <- unique(f$id)
+id.lst <- LETTERS[4:7]
 
 filt.reg <- st_multipolygon()
 
@@ -30,8 +48,9 @@ for(i in 1:length(id.lst)){
   
   a <- filter(a, 
               C14AGE > 71 & 
-                C14AGE < 6000 &
-                (POTTERY != '' &  POTTERY != 'indet' &  POTTERY != '(indet)' & POTTERY != '-')
+              C14AGE < 6000 &
+              (POTTERY != '' &  POTTERY != 'indet' &  POTTERY != '(indet)' & POTTERY != '-') & 
+              CLASS %in% c("Ia", "Ib", "Ic", "IIc")
   )
   
   if(nrow(a) != 0){
@@ -44,26 +63,9 @@ for(i in 1:length(id.lst)){
     styles <- unique(styles)
     
     # TODO: loop through all dates per style:
-    
-    #j = 1
-    
+
     for(j in 1:length(styles)){
       print(paste("[", j, "/", length(styles), "] -", styles[j]))
-      
-      # if(styles[j] == "Ilambi"){
-      #   d <- a %>% 
-      #     filter(styles[j] == a$POTTERY)
-      # }else if(grepl("\\(", styles) == TRUE){
-      #   styles[j] <- gsub("\\(", "\\\\(", styles[j]) # escape (
-      #   styles[j] <- gsub("\\)", "\\\\)", styles[j]) # escape )
-      #   d <- a %>% 
-      #     filter(grepl(styles[j],a$POTTERY))
-      #   #styles[j] <- gsub("\\\\(", "\\(", styles[j]) # undo escape
-      #   #styles[j] <- gsub("\\\\)", "\\)", styles[j]) # undo escape
-      # }else{
-      #   d <- a %>% 
-      #     filter(grepl(styles[j],a$POTTERY))
-      # }
       
       # > FILTER DATES ---- 
       d <- filter(a, grepl(styles[j], a$POTTERY)) # filter for dates related to style
@@ -95,12 +97,6 @@ for(i in 1:length(id.lst)){
 
 styleprob <- do.call(rbind, datalist)
 sites <- do.call(rbind, a.sel.list)
-
-#styleprob$region = factor(styleprob$region, levels=names(list), labels=names(list))
-
-#styleprob.lab <- styleprob %>% 
-#  group_by(label) %>% 
-#  slice(which.min(duration))
 
 styleprob.med <- unique(styleprob[, c("style", "median", "region")])
 styleprob.med <- unnest(styleprob.med, median)
@@ -174,10 +170,6 @@ styleprob.lab1 <- rbind(styleprob.lab, style.m.lab)
 colnames(styleprob.lab1)[2] <- "TO"
 
 
-# manually update positioning of Campo label
-
-#styleprob.lab1$TO[styleprob.lab1$style == "Campo"] <- 300
-
 style.box <- unique(styleprob[c("style", "FROM", "TO", "start", "region", "rel", "COL")])
 style.box
 
@@ -206,7 +198,7 @@ style.box[is.na(style.box$COL),"COL"] <- "#808080"
 unique(styleprob$style)
 
 
-# only nwCongo Basin ----
+# PLOT ----
 ggplot(data = filter(style.box,
                       style != "mixed" & 
                       region %in% LETTERS[4:7]), 
@@ -232,10 +224,12 @@ ggplot(data = filter(style.box,
                              region %in% LETTERS[4:7]), 
              aes(x = TO, y = style), 
              color = "black", fill = "white", shape = 21, size = 1) +   
-  geom_text(aes(label = style), 
+  geom_label(aes(label = style), 
             #angle = 90, 
-            hjust = 1, nudge_x = -25, 
-            size = 2) + 
+            hjust = 1, nudge_x = -50, 
+            size = 2, label.size = NA, 
+            fontface = "bold", 
+            label.padding = unit(0.1, "lines")) + 
   scale_colour_gradient(low = "white", 
                         high = "black") + 
   scale_x_continuous("cal BC/AD", 
@@ -256,3 +250,4 @@ ggplot(data = filter(style.box,
         strip.background = element_blank())
 ggsave("fig/fig_chronology.pdf", width = 6, height = 8)
 ggsave("fig/fig_chronology.jpg", width = 6, height = 8)
+

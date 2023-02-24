@@ -11,7 +11,7 @@ c14 <- rbind(
     "https://raw.githubusercontent.com/dirkseidensticker/aDRAC/master/aDRAC.csv", 
     encoding = "UTF-8"),
   data.table::fread(
-    "C:/Users/dirks/OneDrive/Programmieren/aDRACv2_unpubl.csv", 
+    "data/aDRAC_new.csv", 
     dec = ",", 
     encoding = "UTF-8")
 )
@@ -27,7 +27,7 @@ c14.lst <- list()
 
 for (i in 1:length(id)) {
   c14.sel <- c14 %>% 
-    dplyr::filter(C14AGE  > 70) %>%
+    dplyr::filter(C14AGE  > 70 & CLASS %in% c("Ia", "Ib", "Ic", "IIc")) %>%
     dplyr::filter(grepl(id[i], POTTERY)) %>% # filter for dates related to style
     dplyr::filter(!grepl(paste0("\\(" , id[i], "\\)"), POTTERY)) # remove cases in parantheses
   
