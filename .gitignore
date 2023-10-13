@@ -37,7 +37,3 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
-
-# Main Text PDF
-
-PikundaMunda-BatalimoMaluba_Paper.pdf
