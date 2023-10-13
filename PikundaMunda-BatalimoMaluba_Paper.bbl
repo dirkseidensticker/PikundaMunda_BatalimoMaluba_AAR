@@ -1,4 +1,4 @@
-\begin{thebibliography}{74}
+\begin{thebibliography}{122}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{{#1}}
 \providecommand{\urlprefix}{URL }
@@ -9,8 +9,32 @@
 \providecommand{\eprint}[2][]{\url{#2}}
 
 \bibitem[{Aumassip(1975)}]{Aumassip.1975}
-Aumassip G (1975) {La poterie de Batalimo}. In: {Recherches pr\'ehistoriques en
-  R\'epublique Centrafricaine}, {Klincksieck}, {Paris}, pp 221--234
+Aumassip G (1975) {La poterie de Batalimo}. In: {de Bayle des Hermens} R (ed)
+  {Recherches pr\'ehistoriques en R\'epublique Centrafricaine}, {Klincksieck},
+  {Paris}, pp 221--234
+
+\bibitem[{Bahuchet(1992)}]{Bahuchet.1992}
+Bahuchet S (1992) {Dans la for\^et d'Afrique Centrale: les Pygm\'ees Aka et
+  Baka}. {Ethnosciences 8; Histoire d'une civilisation foresti\`ere 1},
+  {Peeters}, {Paris}
+
+\bibitem[{Bequaert(1937)}]{Bequaert.1937}
+Bequaert M (1937) {Bijlen uit Neder-Congo, bijlen uit West-Oubangui en bijlen
+  uit Uele}. Bulletin des s\'eances de l'Institut Royal Colonial Belge
+  8(3):807--823
+
+\bibitem[{Bequaert(1938)}]{Bequaert.1938a}
+Bequaert M (1938) {Mat\'eriel arch\'eologique de l'Ubanghi}. Bulletin de la
+  Soci\'et\'e royale Belge d'Anthropologie et de Pr\'ehistoire 53:32--42
+
+\bibitem[{Bequaert(1940)}]{Bequaert.1940a}
+Bequaert M (1940) {Haches de l'Oubanghi}. Bulletin de la Soci\'et\'e royale
+  Belge d'Anthropologie et de Pr\'ehistoire 55:110--113
+
+\bibitem[{Bequaert(1946)}]{Bequaert.1946}
+Bequaert M (1946) {Contribution \`a l'\'etude de la pr\'ehistoire de
+  l'Oubangui}. Bulletin de la Soci\'et\'e Royale Belge d'Anthropologie et de
+  Pr\'ehistoire 57:182--187
 
 \bibitem[{Bostoen(2018)}]{Bostoen.2018}
 Bostoen K (2018) The {{Bantu Expansion}}. Oxford Research Encyclopedia of
@@ -44,12 +68,42 @@ Bremond L, Bodin SC, Bentaleb I, Favier C, Canal S (2017) Past tree cover of
   profiles. Quaternary International 434:91--101,
   \doi{10.1016/j.quaint.2015.11.150}
 
+\bibitem[{Claes(1985)}]{Claes.1985}
+Claes P (1985) {Contribution \`a l'\'etude de c\'eramiques anciennes des
+  environs de Yaound\'e. Unpublished M\'emoire de licenci\'e}. {Universite
+  Libre de Bruxelles}, {Br\"ussel}
+
 \bibitem[{Clist(2004)}]{Clist.20042005}
 Clist B (2004) {Des premi\`ers villages aux premiers Europ\'eens autour de
   l'Estuaire du Gabon. Quatre mill\'enaires d'interactions entre l'homme et son
   milieu. Unpubl. Ph.D. Dissertation. Universit\'e Libre de Bruxelles, Academic
-  Year 2004-2005}. {Universite Libre de Bruxelles/Freie Universit\"at
-  Br\"ussel}, {Br\"ussel}
+  Year 2004-2005}. {Universite Libre de Bruxelles}, {Brussels}
+
+\bibitem[{Clist(2022)}]{Clist.2022}
+Clist B (2022) West-{{Central African Diversity}} from the {{Stone Age}} to the
+  {{Iron Age}}, {{Continuities}} and {{Transitions}} during the {{Late
+  Pleistocene}} and the {{Holocene}}. In: {Fortes-Lima} C, Mtetwa E, Schlebusch
+  C (eds) Africa, the Cradle of Human Diversity: Cultural and Biological
+  Approaches to Uncover {{African}} Diversity, no. volume 26 in Africa-{{Europe
+  Group}} for Interdisciplinary Studies, {Brill}, {Leiden ; Boston}, pp 63--110
+
+\bibitem[{Clist et~al.(2023)Clist, Denbow, and Lanfranchi}]{Clist.2023a}
+Clist B, Denbow J, Lanfranchi R (2023) Using the radiocarbon dates of {{Central
+  Africa}} for studying long-term demographic trends of the last 50,000 years:
+  Potential and pitfalls. Azania: Archaeological Research in Africa pp 1--59,
+  \doi{10.1080/0067270X.2023.2215649}
+
+\bibitem[{Cornelissen(2003)}]{Cornelissen.2003}
+Cornelissen E (2003) On {{Microlithic Quartz Industries}} at the {{End}} of the
+  {{Pleistocene}} in {{Central Africa}}: {{The Evidence From Shum Laka}} ({{NW
+  Cameroon}}). African Archaeological Review 20(1):1--24
+
+\bibitem[{Cornelissen(2017)}]{Cornelissen.2017}
+Cornelissen E (2017) A {{Case Study}}: {{Analyzing}} lithics from~{{Shum
+  Laka}}, {{NW Province}}, {{Cameroon}}. In: {Livingstone-Smith} A, Cornelissen
+  E, Gosselain OP, MacEachern S (eds) Field {{Manual}} for {{African
+  Archaeology}}, Documents on Social Sciences and Humanities, {Royal Museum for
+  Central Africa}, {Tervuren}, pp 168--172
 
 \bibitem[{Cornelissen et~al.(2013)Cornelissen, Ebosso~Lihunzu, and
   Mambu~Nsangathi}]{Cornelissen.2013}
@@ -79,14 +133,40 @@ Currie TE, Meade A, Guillon M, Mace R (2013) Cultural phylogeography of the
   Society B: Biological Sciences 280(1762):20130695,
   \doi{10.1098/rspb.2013.0695}
 
+\bibitem[{{de Bayle des Hermens}(1969)}]{DeBayleDesHermens.1969}
+{de Bayle des Hermens} R (1969) {R\'esultats d'ensemble des missions de
+  recherches pr\'ehistoriques effectu\'ee en 1966, 1967 et 1968 en R\'epublique
+  Centrafricaine}. Bull Soc roy belge Anthrop Pr\'ehist 80:5--20
+
+\bibitem[{{de Bayle des Hermens}(1971)}]{DeBayleDesHermens.1971}
+{de Bayle des Hermens} R (1971) {Quelques aspects de la Pr\'ehistoire en
+  R\'epublique Centrafricaine}. The Journal of African History 12(4):579--597,
+  \doi{10.1017/S0021853700011178}
+
 \bibitem[{{de Bayle des Hermens}(1975)}]{deBayledesHermens.1975}
 {de Bayle des Hermens} R (1975) {Recherches pr\'ehistoriques en R\'epublique
   Centrafricaine}. {Klincksieck}, {Paris}
+
+\bibitem[{{de Maret}(1982)}]{deMaret.1982}
+{de Maret} P (1982) New {{Survey}} of {{Archaeological Research}} and {{Dates}}
+  for {{West-Central}} and {{North-Central Africa}}. Journal of African History
+  23(1):1--15
 
 \bibitem[{{de Maret}(1986)}]{deMaret.1986}
 {de Maret} P (1986) The {{Ngovo Group}}: {{An}} industry with polished stone
   tools and pottery in {{Lower Za\"ire}}. African Archaeological Review
   4:103--133
+
+\bibitem[{{de Maret}(1992)}]{deMaret.1992}
+{de Maret} P (1992) {S\'edentarisation, agriculture et m\'etallurgie du
+  Sud-Cameroun. Synth\`ese des recherches depuis 1978}. In: Essomba JM (ed)
+  {L'arch\'eologie au Cameroun. Actes du premier Colloque international de
+  Yaound\'e (6-9 janvier 1986)}, {Kathala and Paris}, pp 247--262
+
+\bibitem[{{de Maret} et~al.(1983){de Maret}, Clist, and
+  Mbida~Mindzi{\'e}}]{deMaret.1983}
+{de Maret} P, Clist B, Mbida~Mindzi{\'e} C (1983) Belgian {{Archaeological
+  Mission}} in {{Cameroon}} 1983 {{Field Season}}. Nyame Akuma 23:5--6
 
 \bibitem[{{de Saulieu} et~al.(2017){de Saulieu}, Oslisly, Nlend~Nlend, and
   Ngouoh}]{Saulieu.2017}
@@ -101,6 +181,11 @@ Currie TE, Meade A, Guillon M, Mace R (2013) Cultural phylogeography of the
   Rise}} and {{Collapse}} between \textasciitilde 2500 and \textasciitilde 500
   cal. yr {{BP}} in {{Western Central Africa}}. Afrique : Archeologie et Arts
   17:11--32, \doi{10.4000/aaa.3029}
+
+\bibitem[{Eggert(1980)}]{Eggert.1980b}
+Eggert MKH (1980) {Der Keramikfund von Bondongo-Losombo (R\'egion de
+  l'Equateur, Za\"ire) und die Arch\"aologie des \"aquatorialen Regenwaldes}.
+  Beitr\"age zur Allgemeinen und Vergleichenden Arch\"aologie 2:381--427
 
 \bibitem[{Eggert(1983)}]{Eggert.1983}
 Eggert MKH (1983) Remarks on {{Exploring Archaeologically Unknown Rain Forest
@@ -140,6 +225,11 @@ Eggert MKH (1996) Pots, {{Farming}} and {{Analogy}}: {{Early Ceramics}} in the
   {{Equatorial Rainforest}}. Azania: Archaeological Research in Africa
   29/30:332--338
 
+\bibitem[{Eggert(2005)}]{Eggert.2005}
+Eggert MKH (2005) The {{Bantu Problem}} and {{African Archaeology}}. In: Stahl
+  AB (ed) African Archaeology, Blackwell {{Studies}} in {{Global Archaeology}},
+  {Blackwell Pub.}, {Malden}, pp 301--326
+
 \bibitem[{Eggert(2016)}]{Eggert.2016a}
 Eggert MKH (2016) Geneticizing {{Bantu}}: {{Historical Insight}} or
   {{Historical Trilemma}}? Medieval Worlds 4:79--90,
@@ -161,15 +251,39 @@ Eggert MKH, {Kanimba-Misago} (1980) {Aspects d'un m\'etier traditionnel:
   L'industrie de poterie \`a Ikenge (R\'egion de l'Equateur, Za\"ire)}.
   Baesseler-Archiv NF 28:387--430
 
+\bibitem[{Ehret(1973)}]{Ehret.1973}
+Ehret C (1973) Patterns of {{Bantu}} and {{Central Sudanic Settlement}} in
+  {{Central}} and {{Southern Africa}} (ca. 1000 {{B}}.{{C}}.-500 {{A}}.{{D}}.).
+  Transafr Journ Hist 3:1--71
+
+\bibitem[{Elenga et~al.(1996)Elenga, Schwartz, Vincens, Bertaux, de~Namur,
+  Martin, Wirrmann, and Servant}]{Elenga.1996}
+Elenga H, Schwartz D, Vincens A, Bertaux J, de~Namur C, Martin L, Wirrmann D,
+  Servant M (1996) {Diagramme pollinique holoc\`ene du lac Kitina (Congo): Mise
+  en \'evidence de changements pal\'eobotaniques et pal\'eoclimatiques dans le
+  massif forestier du Mayombe}. Comptes Rendus de l'Acad\'emie des Sciences
+  S\'erie 2a : Sciences de la Terre et des Plan\`etes 323:403--410
+
 \bibitem[{Gillet(2013)}]{Gillet.2013}
 Gillet JF (2013) {Les for\^ets \`a Marantaceae au sein de la mosa\"ique
   foresti\`ere du Nord de la R\'epublique du Congo: Origines et modalit\'es de
   gestion: Docteur en sciences agronomiques et ing\'enierie biologique}.
   {Universit\'e de Li\`ege}, {Li\`ege}
 
-\bibitem[{Gombin et~al.(2017)Gombin, Vaidyanathan, and Agafonkin}]{Gombin.2017}
-Gombin J, Vaidyanathan R, Agafonkin V (2017) Concaveman: {{A Very Fast 2D
-  Concave Hull Algorithm}}
+\bibitem[{Giresse et~al.(2020)Giresse, Maley, and
+  {Chepstow-Lusty}}]{Giresse.2020}
+Giresse P, Maley J, {Chepstow-Lusty} A (2020) Understanding the 2500 yr {{BP}}
+  rainforest crisis in {{West}} and {{Central Africa}} in the framework of the
+  {{Late Holocene}}: {{Pluridisciplinary}} analysis and multi-archive
+  reconstruction. Global and Planetary Change 192(se):103257,
+  \doi{10.1016/j.gloplacha.2020.103257}
+
+\bibitem[{Giresse et~al.(2023)Giresse, Maley, and
+  {Chepstow-Lusty}}]{Giresse.2023}
+Giresse P, Maley J, {Chepstow-Lusty} A (2023) A focus on the last 1000 years of
+  natural environmental changes in the tropical rainforests of {{West}} and
+  {{Central Africa}}. {{Can}} we detect anthropogenic disturbances? Global and
+  Planetary Change 220:103995, \doi{10.1016/j.gloplacha.2022.103995}
 
 \bibitem[{Gond et~al.(2013)Gond, Fayolle, Pennec, Cornu, Mayaux, Camberlin,
   Doumenge, Fauvet, and {Gourlet-Fleury}}]{Gond.2013}
@@ -183,7 +297,7 @@ Gond V, Fayolle A, Pennec A, Cornu G, Mayaux P, Camberlin P, Doumenge C, Fauvet
   and Ma{\~n}e}]{GonzalezRuibal.2011}
 {Gonz{\'a}lez-Ruibal} A, Gelabert LP, Ma{\~n}e AV (2011) Early {{Iron Age
   Burials}} from~{{Equatorial Guinea}}: {{The Sites}} of {{Corisco Island}}.
-  Journal of African Archaeology 9(1):41--66
+  Journal of African Archaeology 9(1):41--66, \doi{10.3213/1612-1651-10182}
 
 \bibitem[{{Gonz{\'a}lez-Ruibal} et~al.(2012){Gonz{\'a}lez-Ruibal},
   {S{\'a}nchez-Elipe}, and {Otero-Vilari{\~n}o}}]{GonzalesRuibal.2012}
@@ -204,6 +318,21 @@ Grollemund R, Branford S, Bostoen K, Meade A, Venditti C, Pagel M (2015) Bantu
 Grollemund R, Schoenbrun D, Vansina J (2023) Moving {{Histories}}: {{Bantu
   Language Expansions}}, {{Eclectic Economies}}, and {{Mobilities}}. The
   Journal of African History pp 1--25, \doi{10.1017/S0021853722000780}
+
+\bibitem[{Hall(1983)}]{Hall.1983}
+Hall M (1983) Tribes, {{Traditions}} and {{Numbers}}: {{The American}} model in
+  {{Southern African Iron~Age Ceramic Studies}}. The South African
+  Archaeological Bulletin 38:51--57
+
+\bibitem[{Heine et~al.(1977)Heine, Hoff, and Vossen}]{Heine.1977}
+Heine B, Hoff H, Vossen R (1977) {Neuere Ergebnisse zur Territorialgeschichte
+  der Bantu}. In: M{\"o}hlig WJG, Rottland F, Heine B (eds) {Zur
+  Sprachgeschichte und Ethnohistorie in Afrika: Neue Beitr\"age afrikanischer
+  Forschungen}, {Reimer}, {Berlin}, pp 57--72
+
+\bibitem[{Huffman(1970)}]{Huffman.1970}
+Huffman TN (1970) The {{Early Iron~Age}} and the {{Spread}} of the {{Bantu}}.
+  The South African Archaeological Bulletin 25(97):3--21
 
 \bibitem[{Kiahtipes(2016)}]{Kiahtipes.2016}
 Kiahtipes CA (2016) Late {{Holocene Paleoenvironments}} and {{Anthropogenic
@@ -233,13 +362,45 @@ Kot{\'e} L (1992) {Naissance et d\'eveloppement des \'economies de production
 Kroeber AL (1944) {Archaeology in Peru in 1942}, {Viking Fund Publications in
   Anthropology}, vol~4. {The Viking Fund}, {New York}
 
-\bibitem[{Leka(2008)}]{Leka.2008}
-Leka MJ (2008) {Nouvelles recherches archeologiques en pays Tikar: Premiers
-  resultats}
+\bibitem[{Lavachery(2001)}]{Lavachery.2001}
+Lavachery P (2001) The {{Holocene Archaeological Sequence}} of {{Shum Laka Rock
+  Shelter}} ({{Grassfields}}, {{Western Cameroon}}). African Archaeological
+  Review 18(4):213--247, \doi{10.1023/A:1013114008855}
 
 \bibitem[{Letouzey(1968)}]{Letouzey.1968}
 Letouzey R (1968) {\'Etude phytog\'eographique du~Cameroun}, {Encyclop\'edie
   Biologique}, vol~69. {\'Edition Paul Lechevalier}, {Paris}
+
+\bibitem[{Lipson et~al.(2020)Lipson, Ribot, Mallick, Rohland, Olalde, Adamski,
+  Broomandkhoshbacht, Lawson, L{\'o}pez, Oppenheimer, Stewardson, Asombang,
+  Bocherens, Bradman, Culleton, Cornelissen, Crevecoeur, {de Maret}, Fomine,
+  Lavachery, Mindzie, Orban, Sawchuk, Semal, Thomas, Van~Neer, Veeramah,
+  Kennett, Patterson, Hellenthal, {Lalueza-Fox}, MacEachern, Prendergast, and
+  Reich}]{Lipson.2020}
+Lipson M, Ribot I, Mallick S, Rohland N, Olalde I, Adamski N,
+  Broomandkhoshbacht N, Lawson AM, L{\'o}pez S, Oppenheimer J, Stewardson K,
+  Asombang RN, Bocherens H, Bradman N, Culleton BJ, Cornelissen E, Crevecoeur
+  I, {de Maret} P, Fomine FLM, Lavachery P, Mindzie CM, Orban R, Sawchuk E,
+  Semal P, Thomas MG, Van~Neer W, Veeramah KR, Kennett DJ, Patterson N,
+  Hellenthal G, {Lalueza-Fox} C, MacEachern S, Prendergast ME, Reich D (2020)
+  Ancient {{West African}} foragers in the context of {{African}} population
+  history. Nature \doi{10.1038/s41586-020-1929-1}
+
+\bibitem[{Lipson et~al.(2022)Lipson, Sawchuk, Thompson, Oppenheimer, Tryon,
+  Ranhorn, {de Luna}, Sirak, Olalde, Ambrose, Arthur, Arthur, Ayodo, Bertacchi,
+  {Cerezo-Rom{\'a}n}, Culleton, Curtis, Davis, Gidna, Hanson, Kaliba, Katongo,
+  Kwekason, Laird, Lewis, Mabulla, Mapemba, Morris, Mudenda, Mwafulirwa,
+  Mwangomba, Ndiema, Ogola, Schilt, Willoughby, Wright, Zipkin, Pinhasi,
+  Kennett, Manthi, Rohland, Patterson, Reich, and Prendergast}]{Lipson.2022}
+Lipson M, Sawchuk EA, Thompson JC, Oppenheimer J, Tryon CA, Ranhorn KL, {de
+  Luna} KM, Sirak KA, Olalde I, Ambrose SH, Arthur JW, Arthur KJW, Ayodo G,
+  Bertacchi A, {Cerezo-Rom{\'a}n} JI, Culleton BJ, Curtis MC, Davis J, Gidna
+  AO, Hanson A, Kaliba P, Katongo M, Kwekason A, Laird MF, Lewis J, Mabulla
+  AZP, Mapemba F, Morris A, Mudenda G, Mwafulirwa R, Mwangomba D, Ndiema E,
+  Ogola C, Schilt F, Willoughby PR, Wright DK, Zipkin A, Pinhasi R, Kennett DJ,
+  Manthi FK, Rohland N, Patterson N, Reich D, Prendergast ME (2022) Ancient
+  {{DNA}} and deep population structure in sub-{{Saharan African}} foragers.
+  Nature \doi{10.1038/s41586-022-04430-9}
 
 \bibitem[{Livingstone~Smith et~al.(2010)Livingstone~Smith, Gosselain, Mayor,
   and Gu{\`e}ye}]{LivingstoneSmith.2010b}
@@ -279,6 +440,17 @@ Lupo KD, Schmitt DN, Ndanga JP, Nguerede LP, Amaye GT, Smith AL, Edwards NM,
   Shelter}}, {{Central African Republic}}. Azania: Archaeological Research in
   Africa 56(1):4--33, \doi{10.1080/0067270X.2020.1865636}
 
+\bibitem[{Maley(2004)}]{Maley.2004}
+Maley J (2004) {Les variations de la v\'eg\'etation et des
+  pal\'eoenvironnements du domaine forstier africain au cours de Quaternaire
+  r\'ecent}. In: S{\'e}mah AM, {Renault-Miskovsky} J (eds) {L'evolution de la
+  v\'eg\'etation depuis deux millions d'ann\'ees}, {Paris}, pp 143--178
+
+\bibitem[{Maley and Brenac(1998)}]{Maley.1998b}
+Maley J, Brenac P (1998) Vegetation dynamics, paleoenvironments and climatic
+  changes in the forest of western {{Cameroon}} during the last 28,000 years
+  {{B}}.{{P}}. Review of Palaeobotany and Palynology 157:157--188
+
 \bibitem[{Maley et~al.(2017)Maley, Doumenge, Giresse, Mah{\'e}, Philippon,
   Hubau, Lokonda, Tshibamba, and {Chepstow-Lusty}}]{Maley.2017}
 Maley J, Doumenge C, Giresse P, Mah{\'e} G, Philippon N, Hubau W, Lokonda MO,
@@ -308,23 +480,45 @@ Maley J, Doumenge C, Giresse P, Mah{\'e} G, Philippon N, Hubau W, Lokonda MO,
 \bibitem[{Ndanga et~al.(2010)Ndanga, Cornelissen, and Lanfranchi}]{Ndanga.2010}
 Ndanga AJP, Cornelissen E, Lanfranchi R (2010) {Quel lien entre les ateliers de
   taille de Ngo Tchororo et la c\'eramique de Batalimo (RCA)? / Stone knappers
-  at Ngo Tchororo and pottery makers at Batalimo~(CRA), did they meet?}
+  at Ngo Tchororo and pottery makers at Batalimo~(CRA), did they meet? 13\`eme
+  Congr\`es de la PANAF - 20\`eme R\'eunion de la SAFA. 1-7 Nov. 2010 (Dakar)}
 
 \bibitem[{Neumann et~al.(2022)Neumann, Eichhorn, and Wotzka}]{Neumann.2022}
 Neumann K, Eichhorn B, Wotzka HP (2022) Iron {{Age}} plant subsistence in the
   {{Inner Congo Basin}} ({{DR Congo}}). Vegetation History and Archaeobotany
   \doi{10.1007/s00334-021-00865-8}
 
+\bibitem[{Ngomanda et~al.(2009)Ngomanda, Neumann, Schweizer, and
+  Maley}]{Ngomanda.2009}
+Ngomanda A, Neumann K, Schweizer A, Maley J (2009) Seasonality change and the
+  third millennium {{BP}} rainforest crisis in southern {{Cameroon}} ({{Central
+  Africa}}). Quaternary Research 71:307--318, \doi{10.1016/j.yqres.2008.12.002}
+
+\bibitem[{Nurse and Philippson(2003)}]{Nurse.2003}
+Nurse D, Philippson G (eds)  (2003) The {{Bantu}} Languages. {Routledge},
+  {London and New York}
+
+\bibitem[{Oliver(1966)}]{Oliver.1966}
+Oliver R (1966) The {{Problem}} of the {{Bantu Expansion}}. Journal of African
+  History 7(3):361--376
+
 \bibitem[{Oslisly(1998)}]{Oslisly.1998}
 Oslisly R (1998) {Hommes et milieux \`a l'Holocene dans la moyenne vall\'ee de
   l'Ogoou\'e (Gabon)}. Bulletin de la Soci\'et\'e Pr\'ehistorique Fran\c{c}aise
   95(1):93--105
 
-\bibitem[{Oslisly(2001)}]{Oslisly.2001d}
+\bibitem[{Oslisly(2001)}]{Oslisly.2001a}
 Oslisly R (2001) The {{History}} of {{Human Settlement}} in the {{Middle
   Ogoou\'e Valley}} ({{Gabon}}): {{Implications}} for the {{Environment}}. In:
   Weber W, White LJT, Vedder A, {Naughton-Treves} L (eds) African Rain Forest
-  Ecology and Conservation, {Yale University Press}, {New Haven}, pp 101--118
+  Ecology and Conservation: {{An}} Interdisciplinary Perspective, {Yale
+  University Press}, {New Haven}, pp 101--118
+
+\bibitem[{Oslisly et~al.(2013)Oslisly, Bentaleb, Favier, Fontugne, Gillet, and
+  {Morin-Rivat}}]{Oslisly.2013b}
+Oslisly R, Bentaleb I, Favier C, Fontugne M, Gillet JF, {Morin-Rivat} J (2013)
+  West {{Central African Peoples}}: {{Survey}} of {{Radiocarbon Dates}} over
+  the {{Past}} 5000 {{Years}}. Radiocarbon 55(2--3)
 
 \bibitem[{Pakendorf et~al.(2011)Pakendorf, Bostoen, and {de
   Filippo}}]{Pakendorf.2011}
@@ -333,14 +527,14 @@ Pakendorf B, Bostoen K, {de Filippo} C (2011) Molecular {{Perspectives}} on the
 
 \bibitem[{Peel et~al.(2007)Peel, Finlayson, and McMahon}]{Peel.2007}
 Peel MC, Finlayson BL, McMahon TA (2007) Updated {{World Map}} of the
-  {{K\"oppen-Geiger Climate Classification}}. Hydrol Earth Systm Sci Discuss
-  4:439--473
+  {{K\"oppen-Geiger Climate Classification}}. Hydrology and Earth System
+  Science 11(5):1633--2007, \doi{10.5194/hess-11-1633-2007}
 
 \bibitem[{Persits et~al.(1997)Persits, Ahlbrandt, Tuttle, Charpentier,
   Brownfield, and Takahashi}]{Persits.1997}
 Persits F, Ahlbrandt T, Tuttle M, Charpentier R, Brownfield ME, Takahashi K
   (1997) Maps showing geology, oil and gas fields and geological provinces of
-  {{Africa Open-File Report}} 97-470- {{A}}. \doi{10.3133/ofr97470A}
+  {{Africa Open-File Report}} 97-470-{{A}}. \doi{10.3133/ofr97470A}
 
 \bibitem[{Philippon et~al.(2019)Philippon, Cornu, Monteil, Gond, Moron,
   Pergaud, S{\`e}ze, Bigot, Camberlin, Doumenge, Fayolle, and
@@ -349,6 +543,47 @@ Philippon N, Cornu G, Monteil L, Gond V, Moron V, Pergaud J, S{\`e}ze G, Bigot
   S, Camberlin P, Doumenge C, Fayolle A, Ngomanda A (2019) The light-deficient
   climates of western {{Central African}} evergreen forests. Environmental
   Research Letters 14(3):034007, \doi{10.1088/1748-9326/aaf5d8}
+
+\bibitem[{Phillipson(1976{\natexlab{a}})}]{Phillipson.1976}
+Phillipson DW (1976{\natexlab{a}}) Archaeology and {{Bantu Linguistics}}. World
+  Archaeology 8(1):65--82
+
+\bibitem[{Phillipson(1976{\natexlab{b}})}]{Phillipson.1976b}
+Phillipson DW (1976{\natexlab{b}}) The {{Early Iron Age}} in {{Eastern}} and
+  {{Southern Africa}}: {{A Critical Re-appraisal}}. Azania: Archaeological
+  Research in Africa 11(1):1--23
+
+\bibitem[{Phillipson(1977)}]{Phillipson.1977a}
+Phillipson DW (1977) The {{Spread}} of the {{Bantu Languages}}. Scientific
+  American 236(4):106--114
+
+\bibitem[{{Raynaud-Farrera} et~al.(1996){Raynaud-Farrera}, Maley, and
+  Wirrmann}]{Raynaud-Farrera.1996}
+{Raynaud-Farrera} I, Maley J, Wirrmann D (1996) {V\'eg\'etation et climat dans
+  les for\^ets du Sud-Ouest Cameroun depuis 4770 ans B.P: Analyse pollinique
+  des s\'ediments du Lac Ossa}. Comptes Rendus de l'Academie des Sciences,
+  Series IIA, Earth and Planetary Science 322:749--755
+
+\bibitem[{Reimer et~al.(2020)Reimer, Austin, Bard, Bayliss, Blackwell,
+  Bronk~Ramsey, Butzin, Cheng, Edwards, Friedrich, Grootes, Guilderson, Hajdas,
+  Heaton, Hogg, Hughen, Kromer, Manning, Muscheler, Palmer, Pearson, {van der
+  Plicht}, Reimer, Richards, Scott, Southon, Turney, Wacker, Adolphi,
+  B{\"u}ntgen, Capano, Fahrni, {Fogtmann-Schulz}, Friedrich, K{\"o}hler, Kudsk,
+  Miyake, Olsen, Reinig, Sakamoto, Sookdeo, and Talamo}]{Reimer.2020}
+Reimer PJ, Austin WEN, Bard E, Bayliss A, Blackwell PG, Bronk~Ramsey C, Butzin
+  M, Cheng H, Edwards RL, Friedrich M, Grootes PM, Guilderson TP, Hajdas I,
+  Heaton TJ, Hogg AG, Hughen KA, Kromer B, Manning SW, Muscheler R, Palmer JG,
+  Pearson C, {van der Plicht} J, Reimer RW, Richards DA, Scott EM, Southon JR,
+  Turney CSM, Wacker L, Adolphi F, B{\"u}ntgen U, Capano M, Fahrni SM,
+  {Fogtmann-Schulz} A, Friedrich R, K{\"o}hler P, Kudsk S, Miyake F, Olsen J,
+  Reinig F, Sakamoto M, Sookdeo A, Talamo S (2020) The {{IntCal20 Northern
+  Hemisphere Radiocarbon Age Calibration Curve}} (0\textendash 55 cal {{kBP}}).
+  Radiocarbon 62(4):725--757, \doi{10.1017/RDC.2020.41}
+
+\bibitem[{Robertson and Bradley(2000)}]{Robertson.2000}
+Robertson JH, Bradley R (2000) A {{New Paradigm}}: {{The African Early Iron
+  Age}} without {{Bantu Migrations}}. History in Africa 27:287,
+  \doi{10.2307/3172118}
 
 \bibitem[{Rouse(1957)}]{Rouse.1957}
 Rouse I (1957) Culture {{Area}} and {{Co-Tradition}}. Southwestern Journal of
@@ -379,6 +614,17 @@ Russell T, Silva F, Steele J (2014) Modelling the {{Spread}} of {{Farming}} in
   {{Radiocarbon Dates}} from {{Corisco Island}} ({{Equatorial Guinea}}). The
   Journal of African History 57(03):345--365, \doi{10.1017/S002185371600027X}
 
+\bibitem[{Sangen(2009)}]{Sangen.2009}
+Sangen M (2009) {Physiogeographische Untersuchungen zur pleistoz\"anen und
+  holoz\"anen Umweltgeschichte an Alluvionen des Ntem-Binnendeltas und
+  alluvialer Sedimente der Fl\"usse Boumba, Ngoko, Nyong und Sanaga in
+  S\"ud-Kamerun: Dissertation}. {Johann Wolfgang Goethe-Universit\"at},
+  {Frankfurt am Main}
+
+\bibitem[{Schmidt(1975)}]{Schmidt.1975}
+Schmidt PR (1975) A new look at interpretations of the early {{Iron Age}} in
+  {{East Africa}}. History in Africa 2:127--136
+
 \bibitem[{Seidensticker(2016)}]{Seidensticker.2016b}
 Seidensticker D (2016) Archaeology and {{History}} in {{Iron Age Settlements}}
   in the {{Congo Basin}}. In: Sadr K, Esterhuysen A, Sievers C (eds) African
@@ -388,7 +634,8 @@ Seidensticker D (2016) Archaeology and {{History}} in {{Iron Age Settlements}}
 \bibitem[{Seidensticker(2020)}]{Seidensticker.2020}
 Seidensticker D (2020) Approaching {{Trans-Generational Training Networks}} in
   {{Central Africa}}: {{Using Ceramic Petrography}} to {{Retrace Provenance}}
-  and {{Technology}} throughout {{Two Millennia}}
+  and {{Technology}} throughout {{Two Millennia}}. {{Ceramic Petrology Group
+  Meeting}} ({{CPG}}), 9-12 {{November}} 2020
 
 \bibitem[{Seidensticker(2021)}]{Seidensticker.2021e}
 Seidensticker D (2021) {Arch\"aologische Untersuchungen zur eisenzeitlichen
@@ -410,15 +657,60 @@ Seidensticker D, Hubau W, Verschuren D, {Fortes-Lima} C, {de Maret} P,
 {van Noten} FL (1977) {Une prospection au nord et nord-est du~Zaire}. Etudes
   d'Histoire africaine 9--10:75--77
 
-\bibitem[{{van Noten}(1982)}]{vanNoten.1982a}
-{van Noten} FL (1982) The {{Iron Age}} in the {{North}} and {{East}}. In: {van
-  Noten} FL (ed) The {{Archaeology}} of {{Central Africa}}, {Akademische Druck-
-  u. Verlagsanstalt}, {Graz}, pp 69--76
+\bibitem[{{van Noten}(1982{\natexlab{a}})}]{vanNoten.1982}
+{van Noten} FL (ed)  (1982{\natexlab{a}}) The {{Archaeology}} of {{Central
+  Africa}}. {Akademische Druck- u. Verlagsanstalt}, {Graz}
+
+\bibitem[{{van Noten}(1982{\natexlab{b}})}]{vanNoten.1982a}
+{van Noten} FL (1982{\natexlab{b}}) The {{Iron Age}} in the {{North}} and
+  {{East}}. In: {van Noten} FL (ed) The {{Archaeology}} of {{Central Africa}},
+  {Akademische Druck- u. Verlagsanstalt}, {Graz}, pp 69--76
+
+\bibitem[{{van Noten}(1982{\natexlab{c}})}]{vanNoten.1982d}
+{van Noten} FL (1982{\natexlab{c}}) The {{Stone Age}} in the {{North}} and
+  {{East}}. In: {van Noten} FL (ed) The {{Archaeology}} of {{Central Africa}},
+  {Akademische Druck- u. Verlagsanstalt}, {Graz}, pp 27--40
+
+\bibitem[{Vansina(1979)}]{Vansina.1979}
+Vansina J (1979) Bantu in the {{Crystal Ball}}, {{I}}. History in Africa
+  6:287--333, \doi{10.2307/3171750}
+
+\bibitem[{Vansina(1980)}]{Vansina.1980}
+Vansina J (1980) Bantu in the {{Crystal Ball}}, {{II}}. History in Africa
+  7:293--325, \doi{10.2307/3171667}
+
+\bibitem[{Vennetier(1963)}]{Vennetier.1963}
+Vennetier P (1963) {Les hommes et leurs activit\'es dans le nord du
+  Congo-Brazzaville}. {Cahier O.R.S.T.O.M.}, {Paris}
+
+\bibitem[{Vincens et~al.(1994)Vincens, Buchet, Elenga, Fournier, Martin, {de
+  Namur}, Schwartz, Servant, and Wirrmann}]{Vincens.1994}
+Vincens A, Buchet G, Elenga H, Fournier M, Martin L, {de Namur} C, Schwartz D,
+  Servant M, Wirrmann D (1994) {Changement majeur de la v\'eg\'etation du lac
+  Sinnda (vall\'ee du Niari, Sud Congo) cons\'ecutif \`a un l'ass\`echement
+  climatique holoc\`ene sup\'erieur: apport de la palynologie}. Comptes Rendus
+  de l'Academie des Sciences, Series IIA, Earth and Planetary Science
+  318:1521--1526
+
+\bibitem[{Vincens et~al.(1998)Vincens, Schwartz, Bertaux, Elenga, and {de
+  Namur}}]{Vincens.1998}
+Vincens A, Schwartz D, Bertaux J, Elenga H, {de Namur} C (1998) Late {{Holocene
+  Climatic Changes}} in {{Western Equatorial Africa Inferred}} from {{Pollen}}
+  from {{Lake Sinnda}}, {{Southern Congo}}. Quaternary Research 50(01):34--45,
+  \doi{10.1006/qres.1998.1979}
+
+\bibitem[{Vogel(1978)}]{Vogel.1978}
+Vogel JO (1978) The {{Gokomere Tradition}}. The South African Archaeological
+  Bulletin 33:12--17
 
 \bibitem[{White(1983)}]{White.1983}
 White F (1983) The Vegetation of {{Africa}}. {{A}} Descriptive Memoir to
   Accompany the {{Unesco}} / {{AETFAT}}/ {{UNSO}} Vegetation Map of {{Africa}}.
   {Zenodo}
+
+\bibitem[{Whiteley et~al.(2019)Whiteley, Xue, and Wheeler}]{Whiteley.2019}
+Whiteley PM, Xue M, Wheeler WC (2019) Revising the {{Bantu}} tree. Cladistics
+  35(3):329--348, \doi{10.1111/cla.12353}
 
 \bibitem[{Willey(1945)}]{Willey.1945}
 Willey GR (1945) Horizon {{Styles}} and {{Pottery Traditions}} in~{{Peruvian

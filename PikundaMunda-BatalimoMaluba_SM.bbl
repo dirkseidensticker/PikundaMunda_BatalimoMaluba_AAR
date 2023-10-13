@@ -1,0 +1,33 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{DOI~\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{DOI~\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{Crema and Di~Napoli(2021)}]{Crema.2021a}
+Crema ER, Di~Napoli R (2021) {{nimbleCarbon}}: {{Bayesian Analyses}} of
+  {{Radiocarbon Dates}} with {{NIMBLE}}
+
+\bibitem[{Crema and Kobayashi(2020)}]{Crema.2020a}
+Crema ER, Kobayashi K (2020) A multi-proxy inference of {{J\=omon}} population
+  dynamics using bayesian phase models, residential data, and summed
+  probability distribution of {{14C}} dates. Journal of Archaeological Science
+  117:105136, \doi{10.1016/j.jas.2020.105136}
+
+\bibitem[{Seidensticker(2021)}]{Seidensticker.2021e}
+Seidensticker D (2021) {Arch\"aologische Untersuchungen zur eisenzeitlichen
+  Besiedlungsgeschichte des nordwestlichen Kongobeckens}. {T\"ubingen
+  University Press}, {T\"ubingen}
+
+\bibitem[{Seidensticker et~al.(2021)Seidensticker, Hubau, Verschuren,
+  {Fortes-Lima}, {de Maret}, Schlebusch, and Bostoen}]{Seidensticker.2021}
+Seidensticker D, Hubau W, Verschuren D, {Fortes-Lima} C, {de Maret} P,
+  Schlebusch CM, Bostoen K (2021) Population {{Collapse}} in {{Congo
+  Rainforest}} from {{AD}} 400 {{Urges Reassessment}} of the {{Bantu
+  Expansion}}. Science Advances 7(7), \doi{10.1126/sciadv.abd8352}
+
+\end{thebibliography}

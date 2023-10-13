@@ -104,15 +104,20 @@ minimap <- ggplot(data = world) +
 
 sites.text <- dplyr::filter(sites %>% dplyr::distinct(SITE, LAT, LONG), SITE %in% c(
   "Imbonga",
+  "Iyonda",
+  "Bokele",
+  "Ikenge",
   "Longa",
   "Pikunda",
   "Munda",
   "Ngombe",
   "Mitula",
   "Mobaka",
+  "Bobusa",
   "Batalimo",
   "Maluba", 
   "Motenge-Boma",
+  "Hau",
   "Bomane Yangwa"
 ))
 sites.text
@@ -145,7 +150,7 @@ p <- ggplot() +
   geom_point(data = sites.text, aes(x = LONG, y = LAT), shape = 21, fill = "black", color = "white", size = 3) + 
 
   shadowtext::geom_shadowtext(aes(x = 16, y = 0), label = "Western\nCongo\nBasin", fontface  = "bold", colour = "white", size = 3) + 
-  shadowtext::geom_shadowtext(aes(x = 19.75, y = 4), label = "Northern\nCongo\nBasin", fontface  = "bold", colour = "white", size = 3) + 
+  shadowtext::geom_shadowtext(aes(x = 20.5, y = 4), label = "Northern\nCongo\nBasin", fontface  = "bold", colour = "white", size = 3) + 
   shadowtext::geom_shadowtext(aes(x = 20.1, y = .5), label = "Inner\nCongo\nBasin", fontface  = "bold", colour = "white", size = 3) + 
   shadowtext::geom_shadowtext(aes(x = 24.5, y = 0), label = "Eastern\nCongo\nBasin", fontface  = "bold", colour = "white", size = 3) + 
   
@@ -193,5 +198,5 @@ cowplot::ggdraw() +
             x = .74, y = .055, width = .2, height = .2)
 
 ggsave("fig/fig_map.jpg", width = 6.25, height = 6, bg = "white")
-ggsave("fig/fig_map.pdf", width = 6.25, height = 6, bg = "white")
+ggsave("fig_map.pdf", width = 6.25, height = 6, bg = "white")
 

@@ -232,7 +232,7 @@ ggplot(data = filter(style.box,
             label.padding = unit(0.1, "lines")) + 
   scale_colour_gradient(low = "white", 
                         high = "black") + 
-  scale_x_continuous("cal BC/AD", 
+  scale_x_continuous("cal BCE/CE", 
                      limits = c(-700,2000), 
                      breaks = c(seq(-1400,1800,200), 1950), 
                      expand = c(0,0)) + 
@@ -248,6 +248,6 @@ ggplot(data = filter(style.box,
         legend.position = "none", 
         strip.text.y = element_text(angle = 0), 
         strip.background = element_blank())
-ggsave("fig/fig_chronology.pdf", width = 6, height = 8)
+ggsave("fig_chronology.pdf", width = 6, height = 8)
 ggsave("fig/fig_chronology.jpg", width = 6, height = 8)
 

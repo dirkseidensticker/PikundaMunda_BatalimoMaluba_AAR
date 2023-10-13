@@ -34,6 +34,10 @@ library(geojsonsf)
 library(viridis)
 library(xlsx)
 
+#if(!require('remotes')) install.packages('remotes')
+#remotes::install_github("nevrome/ggpointgrid")
+library(ggpointgrid)
+
 # rcarbon ####
 library(rcarbon)
 library(parallel)
@@ -49,6 +53,8 @@ c14 <- rbind(
     dec = ",", 
     encoding = "UTF-8")
 ) %>%
+  dplyr::mutate(C14AGE = as.numeric(C14AGE), 
+                C14STD = as.numeric(C14STD)) %>%
   sf::st_as_sf(
     coords = c("LONG", "LAT"),
     crs = 4326,

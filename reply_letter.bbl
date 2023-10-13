@@ -1,0 +1,563 @@
+\begin{thebibliography}{65}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Allen(1983)]{Allen.1983}
+J.~F. Allen.
+\newblock Maintaining knowledge about temporal intervals.
+\newblock \emph{Communications of the ACM}, 26\penalty0 (11):\penalty0
+  832--843, Nov. 1983.
+\newblock ISSN 00010782.
+\newblock \doi{10.1145/182.358434}.
+
+\bibitem[Alwi~Muttaqin et~al.(2019)Alwi~Muttaqin, Heru~Murti, and
+  Susilo]{AlwiMuttaqin.2019}
+L.~Alwi~Muttaqin, S.~Heru~Murti, and B.~Susilo.
+\newblock {{MaxEnt}} ({{Maximum Entropy}}) model for predicting prehistoric
+  cave sites in {{Karst}} area of {{Gunung Sewu}}, {{Gunung Kidul}},
+  {{Yogyakarta}}.
+\newblock In S.~B. Wibowo, A.~B. Rimba, A.~A.~Aziz, S.~Phinn, J.~T.
+  Sri~Sumantyo, H.~Widyasamratri, and S.~Arjasakusuma, editors, \emph{Sixth
+  {{Geoinformation Science Symposium}}}, page~3, {Yogyakarta, Indonesia}, Nov.
+  2019. {SPIE}.
+\newblock ISBN 978-1-5106-3389-6 978-1-5106-3390-2.
+\newblock \doi{10.1117/12.2543522}.
+
+\bibitem[Assoko~Ndong(2000)]{AssokoNdong.2000}
+A.~Assoko~Ndong.
+\newblock \emph{{Arch\'eologie du peuplement holoc\`ene de la reserve de faune
+  de la Lop\'e, Gabon. Unpublished Ph.D. Thesis. Universit\'e Libre de
+  Bruxelles; Academic Year 2000-2001}}.
+\newblock {Br\"ussel}, 2000.
+
+\bibitem[Assoko~Ndong(2002)]{AssokoNdong.2002}
+A.~Assoko~Ndong.
+\newblock {Synth\`ese des donn\'ees arch\'eologiques r\'ecentes sur le
+  peuplement \`a l'Holoc\`ene de la r\'eserve de faune de la Lop\'e, Gabon}.
+\newblock \emph{L'Anthropologie}, 106:\penalty0 135--158, 2002.
+\newblock \doi{10.1016/S0003-5521(02)01083-X}.
+
+\bibitem[Aumassip(1975)]{Aumassip.1975}
+G.~Aumassip.
+\newblock {La poterie de Batalimo}.
+\newblock In R.~{de Bayle des Hermens}, editor, \emph{{Recherches
+  pr\'ehistoriques en R\'epublique Centrafricaine}}, pages 221--234.
+  {Klincksieck}, {Paris}, 1975.
+
+\bibitem[{Bocquet-Appel} et~al.(2012){Bocquet-Appel}, Naji, Vander~Linden, and
+  Kozlowski]{Bocquet-Appel.2012}
+J.-P. {Bocquet-Appel}, S.~Naji, M.~Vander~Linden, and J.~Kozlowski.
+\newblock Understanding the rates of expansion of the farming system in
+  {{Europe}}.
+\newblock \emph{Journal of Archaeological Science}, 39\penalty0 (2):\penalty0
+  531--546, Feb. 2012.
+\newblock ISSN 03054403.
+\newblock \doi{10.1016/j.jas.2011.10.010}.
+
+\bibitem[Boemke et~al.(2023)Boemke, Maier, Schmidt, R{\"o}mer, and
+  Lehmkuhl]{Boemke.2023}
+B.~Boemke, A.~Maier, I.~Schmidt, W.~R{\"o}mer, and F.~Lehmkuhl.
+\newblock Testing the representativity of {{Palaeolithic}} site distribution:
+  {{The}} role of sampling bias in the european upper and {{Final
+  Palaeolithic}} record.
+\newblock \emph{Quaternary Science Reviews}, 316:\penalty0 108220, Sept. 2023.
+\newblock ISSN 02773791.
+\newblock \doi{10.1016/j.quascirev.2023.108220}.
+
+\bibitem[Borcard et~al.(2011)Borcard, Gillet, and Legendre]{Borcard.2011}
+D.~Borcard, F.~Gillet, and P.~Legendre.
+\newblock \emph{Numerical Ecology with {{R}}}.
+\newblock Use {{R}}! {Springer}, {New York}, 2011.
+\newblock ISBN 978-1-4419-7975-9.
+
+\bibitem[Bostoen et~al.(2015)Bostoen, Clist, Doumenge, Grollemund, Hombert,
+  Muluwa, and Maley]{Bostoen.2015}
+K.~Bostoen, B.~Clist, C.~Doumenge, R.~Grollemund, J.-M. Hombert, J.~K. Muluwa,
+  and J.~Maley.
+\newblock Middle to {{Late Holocene Paleoclimatic Change}} and the {{Early
+  Bantu Expansion}} in the {{Rain Forests}} of {{Western Central Africa}}.
+\newblock \emph{Current Anthropology}, 56\penalty0 (3):\penalty0 354--384,
+  2015.
+\newblock \doi{10.1086/681436}.
+
+\bibitem[Clist(2004)]{Clist.20042005}
+B.~Clist.
+\newblock \emph{{Des premi\`ers villages aux premiers Europ\'eens autour de
+  l'Estuaire du Gabon. Quatre mill\'enaires d'interactions entre l'homme et son
+  milieu. Unpubl. Ph.D. Dissertation. Universit\'e Libre de Bruxelles, Academic
+  Year 2004-2005}}.
+\newblock {Universite Libre de Bruxelles}, {Brussels}, 2004.
+
+\bibitem[Clist(2022)]{Clist.2022}
+B.~Clist.
+\newblock West-{{Central African Diversity}} from the {{Stone Age}} to the
+  {{Iron Age}}, {{Continuities}} and {{Transitions}} during the {{Late
+  Pleistocene}} and the {{Holocene}}.
+\newblock In C.~{Fortes-Lima}, E.~Mtetwa, and C.~Schlebusch, editors,
+  \emph{Africa, the Cradle of Human Diversity: Cultural and Biological
+  Approaches to Uncover {{African}} Diversity}, number volume 26 in
+  Africa-{{Europe Group}} for Interdisciplinary Studies, pages 63--110.
+  {Brill}, {Leiden ; Boston}, 2022.
+\newblock ISBN 978-90-04-50021-1.
+
+\bibitem[Clist et~al.(2023)Clist, Denbow, and Lanfranchi]{Clist.2023a}
+B.~Clist, J.~Denbow, and R.~Lanfranchi.
+\newblock Using the radiocarbon dates of {{Central Africa}} for studying
+  long-term demographic trends of the last 50,000 years: Potential and
+  pitfalls.
+\newblock \emph{Azania: Archaeological Research in Africa}, pages 1--59, June
+  2023.
+\newblock ISSN 0067-270X, 1945-5534.
+\newblock \doi{10.1080/0067270X.2023.2215649}.
+
+\bibitem[Currie et~al.(2013)Currie, Meade, Guillon, and Mace]{Currie.2013}
+T.~E. Currie, A.~Meade, M.~Guillon, and R.~Mace.
+\newblock Cultural phylogeography of the {{Bantu Languages}} of sub-{{Saharan
+  Africa}}.
+\newblock \emph{Proceedings of the Royal Society B: Biological Sciences},
+  280\penalty0 (1762):\penalty0 20130695, July 2013.
+\newblock ISSN 0962-8452, 1471-2954.
+\newblock \doi{10.1098/rspb.2013.0695}.
+
+\bibitem[{de Maret}(1986)]{deMaret.1986}
+P.~{de Maret}.
+\newblock The {{Ngovo Group}}: {{An}} industry with polished stone tools and
+  pottery in {{Lower Za\"ire}}.
+\newblock \emph{African Archaeological Review}, 4:\penalty0 103--133, 1986.
+\newblock ISSN 0263-0338.
+
+\bibitem[{de Maret}(2003)]{deMaret.2003}
+P.~{de Maret}.
+\newblock {Synth\`ese des donn\'ees arch\'eologiques r\'ecentes sur l'Afrique
+  centrale foresti\`ere. Des mosa\"iques dans la quatri\`eme dimension}.
+\newblock In A.~Froment and J.~Guffroy, editors, \emph{{Peuplements anciens et
+  actuels des for\^ets tropicales}}, {Collection Colloques et s\'eminaires /
+  Institut fran\c{c}ais de recherche scientifique pour le d\'eveloppement},
+  pages 169--179. {IRD \'Editions and IRD \'ed}, {Paris}, 2003.
+\newblock ISBN 2-7099-1534-0.
+
+\bibitem[{de Saulieu} et~al.(2017){de Saulieu}, Oslisly, Nlend~Nlend, and
+  Ngouoh]{Saulieu.2017}
+G.~{de Saulieu}, R.~Oslisly, P.~Nlend~Nlend, and F.~Ngouoh.
+\newblock {Deux mille cinq cents ans de traditions c\'eramiques \`a Dibamba
+  Yassa (Cameroun)}.
+\newblock \emph{Afrique: Arch\'eologie \& Arts}, 13:\penalty0 23--40, 2017.
+\newblock \doi{10.4000/aaa.979}.
+
+\bibitem[{de Saulieu} et~al.(2021{\natexlab{a}}){de Saulieu}, Garcin, Sebag,
+  Nlend, Zeitlyn, Deschamps, M{\'e}not, Carlo, and Oslisly]{deSaulieu.2021a}
+G.~{de Saulieu}, Y.~Garcin, D.~Sebag, P.~R.~N. Nlend, D.~Zeitlyn, P.~Deschamps,
+  G.~M{\'e}not, P.~D. Carlo, and R.~Oslisly.
+\newblock Archaeological {{Evidence}} for {{Population Rise}} and {{Collapse}}
+  between \textasciitilde 2500 and \textasciitilde 500 cal. yr {{BP}} in
+  {{Western Central Africa}}.
+\newblock \emph{Afrique : Archeologie et Arts}, 17:\penalty0 11--32, Dec.
+  2021{\natexlab{a}}.
+\newblock ISSN 1634-3123, 2431-2045.
+\newblock \doi{10.4000/aaa.3029}.
+
+\bibitem[{de Saulieu} et~al.(2021{\natexlab{b}}){de Saulieu}, Garcin, Sebag,
+  Nlend~Nlend, Zeitlyn, Deschamps, M{\'e}not, Di~Carlo, and
+  Oslisly]{deSaulieu.2021}
+G.~{de Saulieu}, Y.~Garcin, D.~Sebag, P.~R. Nlend~Nlend, D.~Zeitlyn,
+  P.~Deschamps, G.~M{\'e}not, P.~Di~Carlo, and R.~Oslisly.
+\newblock Archaeological {{Evidence}} for {{Population Rise}} and {{Collapse}}
+  between \textasciitilde 2500 and \textasciitilde 500 cal. yr {{BP}} in
+  {{Western Central Africa}}: {{Supplementary Materials}}, 2021{\natexlab{b}}.
+
+\bibitem[Eggert(1987)]{Eggert.1987c}
+M.~K.~H. Eggert.
+\newblock Imbonga and {{Batalimo}}: Ceramic evidence for early settlement of
+  the equatorial rain forest.
+\newblock \emph{African Archaeological Review}, 5:\penalty0 129--145, 1987.
+\newblock ISSN 0263-0338.
+\newblock \doi{10.1007/BF01117088}.
+
+\bibitem[Eggert(2002)]{Eggert.2002}
+M.~K.~H. Eggert.
+\newblock Southern {{Cameroun}} and the {{Settlement}} of the {{Equatorial
+  Rainforest}}. {{Early Ceramics}} from {{Fieldwork}} 1997 and 1998-99.
+\newblock In T.~{Lenssen-Erz}, U.~Tegtmeier, and S.~Kr{\"o}pelin, editors,
+  \emph{Tides of the {{Desert}}. {{Contributions}} to the {{Archaeology}} and
+  {{Environmental History}} of {{Africa}} in {{Honour}} of {{Rudolph Kuper}} --
+  {{Betr\"age}} Zu {{Arch\"aologie}} Und {{Umweltgeschichte Afrikas}} Zu
+  {{Ehren}} von {{Rudolph Kuper}}}, Africa {{Praehistorica}}, pages 507--522.
+  {Heinrich-Barth-Institut}, {K\"oln}, 2002.
+
+\bibitem[Eggert(2012)]{Eggert.2012e}
+M.~K.~H. Eggert.
+\newblock \emph{{Pr\"ahistorische Arch\"aologie: Konzepte und Methoden}},
+  volume 2092 of \emph{{UTB}}.
+\newblock {Francke}, {T\"ubingen and Basel}, 4 edition, 2012.
+\newblock ISBN 978-3-8252-3696-0.
+
+\bibitem[Eggert and {Kanimba-Misago}(1980)]{Eggert.1980c}
+M.~K.~H. Eggert and {Kanimba-Misago}.
+\newblock {Aspects d'un m\'etier traditionnel: L'industrie de poterie \`a
+  Ikenge (R\'egion de l'Equateur, Za\"ire)}.
+\newblock \emph{Baesseler-Archiv NF}, 28:\penalty0 387--430, 1980.
+
+\bibitem[Galletti et~al.(2013)Galletti, Ridder, Falconer, and
+  Fall]{Galletti.2013}
+C.~S. Galletti, E.~Ridder, S.~E. Falconer, and P.~L. Fall.
+\newblock Maxent modeling of ancient and modern agricultural terraces in the
+  {{Troodos}} foothills, {{Cyprus}}.
+\newblock \emph{Applied Geography}, 39:\penalty0 46--56, May 2013.
+\newblock ISSN 01436228.
+\newblock \doi{10.1016/j.apgeog.2012.11.020}.
+
+\bibitem[Geyh(1990)]{Geyh.1990}
+M.~A. Geyh.
+\newblock Radiocarbon dating problems using acetylene as counting gas.
+\newblock \emph{Radiocarbon}, 32\penalty0 (3):\penalty0 321--324, 1990.
+\newblock \doi{10.1017/S0033822200012947}.
+
+\bibitem[Gillespie et~al.(2016)Gillespie, Smith, Barron, Kalra, and
+  Rovzar]{Gillespie.2016}
+T.~W. Gillespie, M.~L. Smith, S.~Barron, K.~Kalra, and C.~Rovzar.
+\newblock Predictive {{Modelling}} for {{Archaeological Sites}}:{{Ashokan
+  Edicts}} from the {{Indian Subcontinent}}.
+\newblock \emph{Current Science}, 110\penalty0 (10):\penalty0 1916, May 2016.
+\newblock ISSN 0011-3891.
+\newblock \doi{10.18520/cs/v110/i10/1916-1921}.
+
+\bibitem[Gombin et~al.(2017)Gombin, Vaidyanathan, and Agafonkin]{Gombin.2017}
+J.~Gombin, R.~Vaidyanathan, and V.~Agafonkin.
+\newblock Concaveman: {{A Very Fast 2D Concave Hull Algorithm}}, 2017.
+
+\bibitem[{Gonz{\'a}lez-Ruibal} et~al.(2011){Gonz{\'a}lez-Ruibal}, Gelabert, and
+  Ma{\~n}e]{GonzalezRuibal.2011}
+A.~{Gonz{\'a}lez-Ruibal}, L.~P. Gelabert, and A.~V. Ma{\~n}e.
+\newblock Early {{Iron Age Burials}} from~{{Equatorial Guinea}}: {{The Sites}}
+  of {{Corisco Island}}.
+\newblock \emph{Journal of African Archaeology}, 9\penalty0 (1):\penalty0
+  41--66, 2011.
+\newblock \doi{10.3213/1612-1651-10182}.
+
+\bibitem[{Gonz{\'a}lez-Ruibal} et~al.(2012){Gonz{\'a}lez-Ruibal},
+  {S{\'a}nchez-Elipe}, and {Otero-Vilari{\~n}o}]{GonzalesRuibal.2012}
+A.~{Gonz{\'a}lez-Ruibal}, M.~{S{\'a}nchez-Elipe}, and C.~{Otero-Vilari{\~n}o}.
+\newblock An {{Ancient}} and {{Common Tradition}}: {{Funerary Rituals}} and
+  {{Society}} in {{Equatorial Guinea}} ({{First--Twelfth Centuries AD}}).
+\newblock \emph{African Archaeological Review}, 30\penalty0 (2):\penalty0
+  115--143, 2012.
+\newblock ISSN 0263-0338.
+
+\bibitem[Gouem~Gouem(2010)]{GouemGouem.20102011}
+B.~Gouem~Gouem.
+\newblock \emph{{Des premi\`eres communaut\'es villageoises aux soci\'et\'es
+  complexes sur le littoral m\'eridional du Cameroun: Dissertation}}.
+\newblock {Universite libre de Bruxelles}, {Br\"ussel}, 2010.
+
+\bibitem[Grollemund et~al.(2015)Grollemund, Branford, Bostoen, Meade, Venditti,
+  and Pagel]{Grollemund.2015}
+R.~Grollemund, S.~Branford, K.~Bostoen, A.~Meade, C.~Venditti, and M.~Pagel.
+\newblock Bantu expansion shows that habitat alters the route and pace of human
+  dispersals.
+\newblock \emph{Proceedings of the National Academy of Sciences of the United
+  States of America}, 112\penalty0 (43):\penalty0 13296--13301, 2015.
+\newblock ISSN 1091-6490.
+\newblock \doi{10.1073/pnas.1503793112}.
+
+\bibitem[Grollemund et~al.(2023)Grollemund, Schoenbrun, and
+  Vansina]{Grollemund.2023}
+R.~Grollemund, D.~Schoenbrun, and J.~Vansina.
+\newblock Moving {{Histories}}: {{Bantu Language Expansions}}, {{Eclectic
+  Economies}}, and {{Mobilities}}.
+\newblock \emph{The Journal of African History}, pages 1--25, Jan. 2023.
+\newblock ISSN 0021-8537, 1469-5138.
+\newblock \doi{10.1017/S0021853722000780}.
+
+\bibitem[Jones et~al.(2019)Jones, Williamson, Bowman, and Lefroy]{Jones.2019}
+P.~J. Jones, G.~J. Williamson, D.~M. J.~S. Bowman, and E.~C. Lefroy.
+\newblock Mapping {{Tasmania}}'s cultural landscapes: {{Using}} habitat
+  suitability modelling of archaeological sites as a landscape history tool.
+\newblock \emph{Journal of Biogeography}, 46\penalty0 (11):\penalty0
+  2570--2582, Nov. 2019.
+\newblock ISSN 0305-0270, 1365-2699.
+\newblock \doi{10.1111/jbi.13684}.
+
+\bibitem[Legendre and Legendre(2012)]{Legendre.2012}
+P.~Legendre and L.~Legendre.
+\newblock \emph{Numerical Ecology}, volume~24 of \emph{Developments in
+  Environmental Modelling}.
+\newblock {Elsevier}, {Amsterdam and Boston}, 3rd english ed. edition, 2012.
+\newblock ISBN 978-0-444-53868-0.
+
+\bibitem[Leka(2008)]{Leka.2008}
+M.~J. Leka.
+\newblock {Nouvelles recherches archeologiques en pays Tikar: Premiers
+  resultats. 19th Biennial Meeting SAfA. 8-11 September (Frankfurt)}, 2008.
+
+\bibitem[Leka(2013)]{Leka.2013}
+M.~J. Leka.
+\newblock \emph{{Etude des occupations humaines dans la vall\'ee du Mbam au
+  cours du Ier mill\'enaire BC: Caract\'erisation des productions c\'eramiques
+  des sites de Ngoum\'e et Nditam (Cameroun central)}}.
+\newblock PhD thesis, Universit\'e Paris I Panth\'eon Sorbonne, {Paris}, 2013.
+
+\bibitem[Livingstone~Smith et~al.(2017)Livingstone~Smith, Cornelissen, {de
+  Francquen}, Nikis, Mees, Tshibamba~Mukendi, Beeckman, Bourland, and
+  Hubau]{LivingstoneSmith.2017}
+A.~Livingstone~Smith, E.~Cornelissen, C.~{de Francquen}, N.~Nikis, F.~Mees,
+  J.~Tshibamba~Mukendi, H.~Beeckman, N.~Bourland, and W.~Hubau.
+\newblock Forests and rivers: {{The}} archaeology of the north eastern
+  {{Congo}}.
+\newblock \emph{Quaternary International}, 448:\penalty0 95--116, 2017.
+\newblock \doi{10.1016/j.quaint.2016.10.010}.
+
+\bibitem[M{\"u}ller et~al.(2015)M{\"u}ller, Hinz, and Ullrich]{Muller.2015}
+J.~M{\"u}ller, M.~Hinz, and M.~Ullrich.
+\newblock Bell {{Beakers}} - {{Chronology}}, {{Innovation}} and {{Memory}}: {{A
+  Multurvariate Approach}}.
+\newblock In M.~P. Prieto~Mart{\'i}nez and L.~Salanova, editors, \emph{The
+  {{Bell Beaker Transition}} in {{Europe}}: {{Mobility}} and {{Local
+  Evolution}} during the 3rd {{Millennium BC}}}, pages 57--68. {Oxbow Books},
+  {Oxford}, 2015.
+\newblock ISBN 978-1-78297-928-9.
+
+\bibitem[Napolitano et~al.(2019)Napolitano, DiNapoli, Stone, Levin, Jew, Lane,
+  O'Connor, and Fitzpatrick]{Napolitano.2019}
+M.~F. Napolitano, R.~J. DiNapoli, J.~H. Stone, M.~J. Levin, N.~P. Jew, B.~G.
+  Lane, J.~T. O'Connor, and S.~M. Fitzpatrick.
+\newblock Reevaluating human colonization of the {{Caribbean}} using
+  chronometric hygiene and {{Bayesian}} modeling.
+\newblock \emph{Science Advances}, 5\penalty0 (12):\penalty0 eaar7806, Dec.
+  2019.
+\newblock ISSN 2375-2548.
+\newblock \doi{10.1126/sciadv.aar7806}.
+
+\bibitem[Ndanga et~al.(2010)Ndanga, Cornelissen, and Lanfranchi]{Ndanga.2010}
+A.~J.-P. Ndanga, E.~Cornelissen, and R.~Lanfranchi.
+\newblock {Quel lien entre les ateliers de taille de Ngo Tchororo et la
+  c\'eramique de Batalimo (RCA)? / Stone knappers at Ngo Tchororo and pottery
+  makers at Batalimo~(CRA), did they meet? 13\`eme Congr\`es de la PANAF -
+  20\`eme R\'eunion de la SAFA. 1-7 Nov. 2010 (Dakar)}, 2010.
+
+\bibitem[Nlend~Nlend(2013)]{NlendNlend.20132014}
+P.~R. Nlend~Nlend.
+\newblock \emph{{Les Traditions ceramiques dans leur contexte arch\'eologique
+  sur le littoral Camerounais (Kribi-Campo) de 3000 \`a 500 BP: Th\`ese
+  pr\'esent\'ee en vue de l'obtention du grade acad\'emique de Docteur en
+  Histoir, art et arch\'eologie}}.
+\newblock {Universite libre de Bruxelles}, {Br\"ussel}, 2013.
+
+\bibitem[Oslisly(1992)]{Oslisly.1992}
+R.~Oslisly.
+\newblock \emph{{Pr\'ehistoire de la Moyenne Vall\'ee de l'Ogoou\'e (Gabon)}},
+  volume~96 of \emph{{Travaux et Documents Micro\'edit\'es}}.
+\newblock {Universit\'e Paris I Panth\'eon-Sorbonne}, {Paris}, 1992.
+\newblock ISBN 2-7099-1138-8.
+
+\bibitem[Oslisly(1994)]{Oslisly.199495}
+R.~Oslisly.
+\newblock The {{Middle Ogoou\'e Valley}}: {{Cultural}} changes and
+  paleoclimatic implications of the last four millennia.
+\newblock \emph{Azania: Archaeological Research in Africa}, 29--30:\penalty0
+  324--331, 1994.
+\newblock ISSN 0067-270X.
+
+\bibitem[Oslisly(1998)]{Oslisly.1998}
+R.~Oslisly.
+\newblock {Hommes et milieux \`a l'Holocene dans la moyenne vall\'ee de
+  l'Ogoou\'e (Gabon)}.
+\newblock \emph{Bulletin de la Soci\'et\'e Pr\'ehistorique Fran\c{c}aise},
+  95\penalty0 (1):\penalty0 93--105, 1998.
+
+\bibitem[Oslisly(2001{\natexlab{a}})]{Oslisly.2001a}
+R.~Oslisly.
+\newblock The {{History}} of {{Human Settlement}} in the {{Middle Ogoou\'e
+  Valley}} ({{Gabon}}): {{Implications}} for the {{Environment}}.
+\newblock In W.~Weber, L.~J.~T. White, A.~Vedder, and L.~{Naughton-Treves},
+  editors, \emph{African Rain Forest Ecology and Conservation: {{An}}
+  Interdisciplinary Perspective}, pages 101--118. {Yale University Press}, {New
+  Haven}, 2001{\natexlab{a}}.
+\newblock ISBN 0-300-08433-1.
+
+\bibitem[Oslisly(2001{\natexlab{b}})]{Oslisly.2001b}
+R.~Oslisly.
+\newblock {Chronologie des ages du fer dans la moyenne vall\'ee de l'Ogooue au
+  Gabon}.
+\newblock \emph{Mediterranean Archaeology}, 14:\penalty0 263--268,
+  2001{\natexlab{b}}.
+
+\bibitem[Pettitt et~al.(2003)Pettitt, Davies, Gamble, and
+  Richards]{Pettitt.2003}
+P.~Pettitt, W.~Davies, C.~Gamble, and M.~Richards.
+\newblock Palaeolithic radiocarbon chronology: Quantifying our confidence
+  beyond two half-lives.
+\newblock \emph{Journal of Archaeological Science}, 30\penalty0 (12):\penalty0
+  1685--1693, Dec. 2003.
+\newblock ISSN 03054403.
+\newblock \doi{10.1016/S0305-4403(03)00070-0}.
+
+\bibitem[Phillips and Dud{\'i}k(2008)]{Phillips.2008}
+S.~J. Phillips and M.~Dud{\'i}k.
+\newblock Modeling of species distributions with {{Maxent}}: New extensions and
+  a comprehensive evaluation.
+\newblock \emph{Ecography}, 31\penalty0 (2):\penalty0 161--175, Apr. 2008.
+\newblock ISSN 0906-7590, 1600-0587.
+\newblock \doi{10.1111/j.0906-7590.2008.5203.x}.
+
+\bibitem[Phillips et~al.(2009)Phillips, Dud{\'i}k, Elith, Graham, Lehmann,
+  Leathwick, and Ferrier]{Phillips.2009}
+S.~J. Phillips, M.~Dud{\'i}k, J.~Elith, C.~H. Graham, A.~Lehmann, J.~Leathwick,
+  and S.~Ferrier.
+\newblock Sample selection bias and presence-only distribution models:
+  Implications for background and pseudo-absence data.
+\newblock \emph{Ecological Applications}, 19\penalty0 (1):\penalty0 181--197,
+  Jan. 2009.
+\newblock ISSN 1051-0761.
+\newblock \doi{10.1890/07-2153.1}.
+
+\bibitem[Phillips et~al.(2017)Phillips, Anderson, Dud{\'i}k, Schapire, and
+  Blair]{Phillips.2017}
+S.~J. Phillips, R.~P. Anderson, M.~Dud{\'i}k, R.~E. Schapire, and M.~E. Blair.
+\newblock Opening the black box: An open-source release of {{Maxent}}.
+\newblock \emph{Ecography}, 40\penalty0 (7):\penalty0 887--893, July 2017.
+\newblock ISSN 09067590.
+\newblock \doi{10.1111/ecog.03049}.
+
+\bibitem[Reimer et~al.(2013)Reimer, Bard, Bayliss, Beck, Blackwell, Ramsey,
+  Buck, Cheng, Edwards, Friedrich, Grootes, Guilderson, Haflidason, Hajdas,
+  Hatt{\'e}, Heaton, Hoffmann, Hogg, Hughen, Kaiser, Kromer, Manning, Niu,
+  Reimer, Richards, Scott, Southon, Staff, Turney, and {van der
+  Plicht}]{Reimer.2013}
+P.~J. Reimer, E.~Bard, A.~Bayliss, J.~W. Beck, P.~G. Blackwell, C.~B. Ramsey,
+  C.~E. Buck, H.~Cheng, R.~L. Edwards, M.~Friedrich, P.~M. Grootes, T.~P.
+  Guilderson, H.~Haflidason, I.~Hajdas, C.~Hatt{\'e}, T.~J. Heaton, D.~L.
+  Hoffmann, A.~G. Hogg, K.~A. Hughen, K.~F. Kaiser, B.~Kromer, S.~W. Manning,
+  M.~Niu, R.~W. Reimer, D.~A. Richards, E.~M. Scott, J.~R. Southon, R.~A.
+  Staff, C.~S.~M. Turney, and J.~{van der Plicht}.
+\newblock {{IntCal13}} and {{Marine13 Radiocarbon Age Calibration Curves}}
+  0\textendash 50,000 {{Years}} cal {{BP}}.
+\newblock \emph{Radiocarbon}, 55\penalty0 (4):\penalty0 1869--1887, 2013.
+\newblock ISSN 0033-8222, 1945-5755.
+\newblock \doi{10.2458/azu_js_rc.55.16947}.
+
+\bibitem[Reimer et~al.(2020)Reimer, Austin, Bard, Bayliss, Blackwell,
+  Bronk~Ramsey, Butzin, Cheng, Edwards, Friedrich, Grootes, Guilderson, Hajdas,
+  Heaton, Hogg, Hughen, Kromer, Manning, Muscheler, Palmer, Pearson, {van der
+  Plicht}, Reimer, Richards, Scott, Southon, Turney, Wacker, Adolphi,
+  B{\"u}ntgen, Capano, Fahrni, {Fogtmann-Schulz}, Friedrich, K{\"o}hler, Kudsk,
+  Miyake, Olsen, Reinig, Sakamoto, Sookdeo, and Talamo]{Reimer.2020}
+P.~J. Reimer, W.~E.~N. Austin, E.~Bard, A.~Bayliss, P.~G. Blackwell,
+  C.~Bronk~Ramsey, M.~Butzin, H.~Cheng, R.~L. Edwards, M.~Friedrich, P.~M.
+  Grootes, T.~P. Guilderson, I.~Hajdas, T.~J. Heaton, A.~G. Hogg, K.~A. Hughen,
+  B.~Kromer, S.~W. Manning, R.~Muscheler, J.~G. Palmer, C.~Pearson, J.~{van der
+  Plicht}, R.~W. Reimer, D.~A. Richards, E.~M. Scott, J.~R. Southon, C.~S.~M.
+  Turney, L.~Wacker, F.~Adolphi, U.~B{\"u}ntgen, M.~Capano, S.~M. Fahrni,
+  A.~{Fogtmann-Schulz}, R.~Friedrich, P.~K{\"o}hler, S.~Kudsk, F.~Miyake,
+  J.~Olsen, F.~Reinig, M.~Sakamoto, A.~Sookdeo, and S.~Talamo.
+\newblock The {{IntCal20 Northern Hemisphere Radiocarbon Age Calibration
+  Curve}} (0\textendash 55 cal {{kBP}}).
+\newblock \emph{Radiocarbon}, 62\penalty0 (4):\penalty0 725--757, Aug. 2020.
+\newblock ISSN 0033-8222, 1945-5755.
+\newblock \doi{10.1017/RDC.2020.41}.
+
+\bibitem[Rouse(1957)]{Rouse.1957}
+I.~Rouse.
+\newblock Culture {{Area}} and {{Co-Tradition}}.
+\newblock \emph{Southwestern Journal of Anthropology}, 13\penalty0
+  (2):\penalty0 123--133, 1957.
+
+\bibitem[{S{\'a}nchez-Elipe}(2015)]{SanchezElipe.2015}
+M.~{S{\'a}nchez-Elipe}.
+\newblock \emph{{Las comunidades de la edad del hierro en \'Africa
+  Centro-Occidental: Cultura Material e Identidad: Tesis Doctoral}}.
+\newblock {Universidad complutense de Madrid}, {Madrid}, 2015.
+
+\bibitem[{S{\'a}nchez-Elipe} et~al.(2016){S{\'a}nchez-Elipe},
+  {Gonz{\'a}lez-Ruibal}, Jord{\'a}~Pardo, and
+  Mar{\'i}n~Su{\'a}rez]{SanchezElipe.2016}
+M.~{S{\'a}nchez-Elipe}, A.~{Gonz{\'a}lez-Ruibal}, J.~F. Jord{\'a}~Pardo, and
+  C.~Mar{\'i}n~Su{\'a}rez.
+\newblock The {{Iron Age}} in {{West Central Africa}}: {{Radiocarbon Dates}}
+  from {{Corisco Island}} ({{Equatorial Guinea}}).
+\newblock \emph{The Journal of African History}, 57\penalty0 (03):\penalty0
+  345--365, 2016.
+\newblock ISSN 0021-8537.
+\newblock \doi{10.1017/S002185371600027X}.
+
+\bibitem[Seidensticker(2016)]{Seidensticker.2016b}
+D.~Seidensticker.
+\newblock Archaeology and {{History}} in {{Iron Age Settlements}} in the
+  {{Congo Basin}}.
+\newblock In K.~Sadr, A.~Esterhuysen, and C.~Sievers, editors, \emph{African
+  {{Archaeology Without Frontiers}}}, pages 114--126. {Wits University Press},
+  {Johannesburg}, 2016.
+\newblock ISBN 978-1-77614-149-4.
+
+\bibitem[Seidensticker(2021)]{Seidensticker.2021e}
+D.~Seidensticker.
+\newblock \emph{{Arch\"aologische Untersuchungen zur eisenzeitlichen
+  Besiedlungsgeschichte des nordwestlichen Kongobeckens}}.
+\newblock {T\"ubingen University Press}, {T\"ubingen}, Sept. 2021.
+\newblock ISBN 978-3-947251-48-3.
+
+\bibitem[Seidensticker(Submitted)]{Seidensticker.Submitteda}
+D.~Seidensticker.
+\newblock Pikunda-{{Munda}}: {{Disappearance}} of {{Pottery Production}} in the
+  {{Western Congo Basin}} at the end of the {{Early Iron Age}}.
+\newblock \emph{African Archaeological Review}, Submitted.
+
+\bibitem[Seidensticker and Hubau(2020)]{Seidensticker.2020b}
+D.~Seidensticker and W.~Hubau.
+\newblock Dirkseidensticker/{{HumActCentralAfrica}}\_{{Paper}}: {{Codebase}}.
+\newblock Zenodo, Dec. 2020.
+
+\bibitem[Seidensticker and Hubau(2021)]{Seidensticker.2021f}
+D.~Seidensticker and W.~Hubau.
+\newblock {{aDRAC}} ({{Archive}} des datations radiocarbones d'{{Afrique}}
+  centrale).
+\newblock Zenodo, Feb. 2021.
+
+\bibitem[Seidensticker et~al.(2018)Seidensticker, Thiery, Mees, and
+  Schmid]{Seidensticker.2018c}
+D.~Seidensticker, F.~Thiery, A.~Mees, and C.~Schmid.
+\newblock {{RDF}} based modeling of relative and absolute chronological data:
+  {{Examples}} from the central african rainforest and roman periodisation,
+  Sept. 2018.
+
+\bibitem[Seidensticker et~al.(2021)Seidensticker, Hubau, Verschuren,
+  {Fortes-Lima}, {de Maret}, Schlebusch, and Bostoen]{Seidensticker.2021}
+D.~Seidensticker, W.~Hubau, D.~Verschuren, C.~{Fortes-Lima}, P.~{de Maret},
+  C.~M. Schlebusch, and K.~Bostoen.
+\newblock Population {{Collapse}} in {{Congo Rainforest}} from {{AD}} 400
+  {{Urges Reassessment}} of the {{Bantu Expansion}}.
+\newblock \emph{Science Advances}, 7\penalty0 (7), Feb. 2021.
+\newblock \doi{10.1126/sciadv.abd8352}.
+
+\bibitem[Spriggs(1989)]{Spriggs.1989}
+M.~Spriggs.
+\newblock The dating of the {{Island Southeast Asian Neolithic}}: An attempt at
+  chronometric hygiene and linguistic correlation.
+\newblock \emph{Antiquity}, 63\penalty0 (240):\penalty0 587--613, Sept. 1989.
+\newblock ISSN 0003-598X, 1745-1744.
+\newblock \doi{10.1017/S0003598X00076560}.
+
+\bibitem[Spriggs and Anderson(1993)]{Spriggs.1993}
+M.~Spriggs and A.~Anderson.
+\newblock Late colonization of {{East Polynesia}}.
+\newblock \emph{Antiquity}, 67\penalty0 (255):\penalty0 200--217, June 1993.
+\newblock ISSN 0003-598X, 1745-1744.
+\newblock \doi{10.1017/S0003598X00045324}.
+
+\bibitem[Willey(1945)]{Willey.1945}
+G.~R. Willey.
+\newblock Horizon {{Styles}} and {{Pottery Traditions}} in~{{Peruvian
+  Archaeology}}.
+\newblock \emph{American Antiquity}, 11\penalty0 (1):\penalty0 49--56, 1945.
+
+\bibitem[Wotzka(1995)]{Wotzka.1995}
+H.-P. Wotzka.
+\newblock \emph{{Studien zur Arch\"aologie des zentralafrikanischen
+  Regenwaldes: Die Keramik des inneren Za\"ire-Beckens und ihre Stellung im
+  Kontext der Bantu-Expansion}}.
+\newblock {Africa Praehistorica}. {Heinrich-Barth-Institut}, {K\"oln}, 1995.
+\newblock ISBN 3-927688-07-X.
+
+\end{thebibliography}
