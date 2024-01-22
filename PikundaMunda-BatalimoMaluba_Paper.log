@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.12.3)  13 OCT 2023 09:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.12.3)  22 JAN 2024 10:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -166,362 +166,66 @@ LaTeX Font Info:    Changing ? sub-encoding to TS1/0 on input line 78.
 \ntxt@cntz=\count280
 LaTeX Font Info:    Redeclaring math symbol \mathsterling on input line 325.
 )
-(c:/texlive/2021/texmf-dist/tex/latex/todonotes/todonotes.sty
-Package: todonotes 2021/06/04 v1.1.5 Todonotes source and documentation.
-Package: todonotes 2021/06/04
-
-(c:/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
-
-(c:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package xcolor Info: Driver file: pdftex.def on input line 227.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
-Package xcolor Info: Model `RGB' extended on input line 1368.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
-)
-(c:/texlive/2021/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(c:/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-(c:/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks21
-\pgfutil@tempdima=\dimen153
-\pgfutil@tempdimb=\dimen154
-
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)
-) (c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box53
-)
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/pgf.revision.tex)
-Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
-))
-Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
-
-(c:/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(c:/texlive/2021/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
-
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks22
-\pgfkeys@temptoks=\toks23
-
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
-\pgfkeys@tmptoks=\toks24
-))
-\pgf@x=\dimen155
-\pgf@y=\dimen156
-\pgf@xa=\dimen157
-\pgf@ya=\dimen158
-\pgf@xb=\dimen159
-\pgf@yb=\dimen160
-\pgf@xc=\dimen161
-\pgf@yc=\dimen162
-\pgf@xd=\dimen163
-\pgf@yd=\dimen164
-\w@pgf@writea=\write3
-\r@pgf@reada=\read2
-\c@pgf@counta=\count281
-\c@pgf@countb=\count282
-\c@pgf@countc=\count283
-\c@pgf@countd=\count284
-\t@pgf@toka=\toks25
-\t@pgf@tokb=\toks26
-\t@pgf@tokc=\toks27
-\pgf@sys@id@count=\count285
- (c:/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
-)
-Driver file for pgf: pgfsys-pdftex.def
-
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
-File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
-
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
-File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
-)))
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfsyssoftpath@smallbuffer@items=\count286
-\pgfsyssoftpath@bigbuffer@items=\count287
-)
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
-File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)) (c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
-
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen165
-\pgfmath@count=\count288
-\pgfmath@box=\box54
-\pgfmath@toks=\toks28
-\pgfmath@stack@operand=\toks29
-\pgfmath@stack@operation=\toks30
-)
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
-x)
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric
-.code.tex)
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.t
-ex)
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.co
-de.tex)
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
-)
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.te
-x)
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
-)
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithm
-etics.code.tex)))
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count289
-))
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
-File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@picminx=\dimen166
-\pgf@picmaxx=\dimen167
-\pgf@picminy=\dimen168
-\pgf@picmaxy=\dimen169
-\pgf@pathminx=\dimen170
-\pgf@pathmaxx=\dimen171
-\pgf@pathminy=\dimen172
-\pgf@pathmaxy=\dimen173
-\pgf@xx=\dimen174
-\pgf@xy=\dimen175
-\pgf@yx=\dimen176
-\pgf@yy=\dimen177
-\pgf@zx=\dimen178
-\pgf@zy=\dimen179
-)
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.cod
-e.tex
-File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@path@lastx=\dimen180
-\pgf@path@lasty=\dimen181
-)
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.te
-x
-File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@shorten@end@additional=\dimen182
-\pgf@shorten@start@additional=\dimen183
-)
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
-File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfpic=\box55
-\pgf@hbox=\box56
-\pgf@layerbox@main=\box57
-\pgf@picture@serial@count=\count290
-)
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
-.tex
-File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgflinewidth=\dimen184
-)
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.c
-ode.tex
-File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@pt@x=\dimen185
-\pgf@pt@y=\dimen186
-\pgf@pt@temp=\dimen187
-)
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
-File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
-File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.co
-de.tex
-File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
-File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfarrowsep=\dimen188
-)
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@max=\dimen189
-\pgf@sys@shading@range@num=\count291
-\pgf@shadingcount=\count292
-)
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
-File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfexternal@startupbox=\box58
-))
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
-File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code
-.tex
-File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
-File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (c:/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
-File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-))) (c:/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.te
-x
-File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfnodeparttextbox=\box59
-)
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)
-(c:/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
-y
-Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@nodesepstart=\dimen190
-\pgf@nodesepend=\dimen191
-)
-(c:/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
-y
-Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
-)) (c:/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(c:/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
-(c:/texlive/2021/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
-
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen192
-\pgffor@skip=\dimen193
-\pgffor@stack=\toks31
-\pgffor@toks=\toks32
-))
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
-
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
-de.tex
-File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@plot@mark@count=\count293
-\pgfplotmarksize=\dimen194
-)
-\tikz@lastx=\dimen195
-\tikz@lasty=\dimen196
-\tikz@lastxsaved=\dimen197
-\tikz@lastysaved=\dimen198
-\tikz@lastmovetox=\dimen199
-\tikz@lastmovetoy=\dimen256
-\tikzleveldistance=\dimen257
-\tikzsiblingdistance=\dimen258
-\tikz@figbox=\box60
-\tikz@figbox@bg=\box61
-\tikz@tempbox=\box62
-\tikz@tempbox@bg=\box63
-\tikztreelevel=\count294
-\tikznumberofchildren=\count295
-\tikznumberofcurrentchild=\count296
-\tikz@fig@count=\count297
-
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfmatrixcurrentrow=\count298
-\pgfmatrixcurrentcolumn=\count299
-\pgf@matrix@numberofcolumns=\count300
-)
-\tikz@expandcount=\count301
-
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-brarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)))
-(c:/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-brarypositioning.code.tex
-File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (c:/texlive/2021/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count302
-\calc@Bcount=\count303
-\calc@Adimen=\dimen259
-\calc@Bdimen=\dimen260
-\calc@Askip=\skip51
-\calc@Bskip=\skip52
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count304
-\calc@Cskip=\skip53
-)
-\c@@todonotes@numberoftodonotes=\count305
-) (c:/texlive/2021/texmf-dist/tex/latex/url/url.sty
+(c:/texlive/2021/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 (c:/texlive/2021/texmf-dist/tex/latex/lineno/lineno.sty
 Package: lineno 2005/11/02 line numbers on paragraphs v4.41
-\linenopenalty=\count306
-\output=\toks33
-\linenoprevgraf=\count307
-\linenumbersep=\dimen261
-\linenumberwidth=\dimen262
-\c@linenumber=\count308
-\c@pagewiselinenumber=\count309
-\c@LN@truepage=\count310
-\c@internallinenumber=\count311
-\c@internallinenumbers=\count312
-\quotelinenumbersep=\dimen263
-\bframerule=\dimen264
-\bframesep=\dimen265
-\bframebox=\box64
+\linenopenalty=\count281
+\output=\toks21
+\linenoprevgraf=\count282
+\linenumbersep=\dimen153
+\linenumberwidth=\dimen154
+\c@linenumber=\count283
+\c@pagewiselinenumber=\count284
+\c@LN@truepage=\count285
+\c@internallinenumber=\count286
+\c@internallinenumbers=\count287
+\quotelinenumbersep=\dimen155
+\bframerule=\dimen156
+\bframesep=\dimen157
+\bframebox=\box53
 LaTeX Info: Redefining \\ on input line 3056.
 )
 (c:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count313
-\l__pdf_internal_box=\box65
+\l__color_backend_stack_int=\count288
+\l__pdf_internal_box=\box54
 )
 (./PikundaMunda-BatalimoMaluba_Paper.aux)
 \openout1 = `PikundaMunda-BatalimoMaluba_Paper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
 
 Unknown journal: specify \journalname{<name of your journal>} in preambel
 
 (c:/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count314
-\scratchdimen=\dimen266
-\scratchbox=\box66
-\nofMPsegments=\count315
-\nofMParguments=\count316
-\everyMPshowfont=\toks34
-\MPscratchCnt=\count317
-\MPscratchDim=\dimen267
-\MPnumerator=\count318
-\makeMPintoPDFobject=\count319
-\everyMPtoPDFconversion=\toks35
+\scratchcounter=\count289
+\scratchdimen=\dimen158
+\scratchbox=\box55
+\nofMPsegments=\count290
+\nofMParguments=\count291
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count292
+\MPscratchDim=\dimen159
+\MPnumerator=\count293
+\makeMPintoPDFobject=\count294
+\everyMPtoPDFconversion=\toks23
 ) (c:/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -531,57 +235,51 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\c@mv@tabular=\count320
-\c@mv@boldtabular=\count321
-
-
-Package todonotes Warning: The length marginparwidth is less than 2cm and will 
-most likely cause issues with the appearance of inserted todonotes. The issue c
-an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
-loading the todonotes package. on input line 12.
+\c@mv@tabular=\count295
+\c@mv@boldtabular=\count296
 
 SVJour3 warning: Missing \journalname
 SVJour3 warning: Missing \institute
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.0pt on input line 33.
+(Font)              scaled to size 10.0pt on input line 32.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 33.
+(Font)              scaled to size 8.0pt on input line 32.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 13.0pt on input line 33.
+(Font)              scaled to size 13.0pt on input line 32.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 13.0pt on input line 33.
+(Font)              scaled to size 13.0pt on input line 32.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 33.
+(Font)              scaled to size 10.95pt on input line 32.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.95pt on input line 33.
+(Font)              scaled to size 10.95pt on input line 32.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 5.0pt on input line 33.
-LaTeX Font Info:    Trying to load font information for T1+qhv on input line 33
+(Font)              scaled to size 5.0pt on input line 32.
+LaTeX Font Info:    Trying to load font information for T1+qhv on input line 32
 .
 (c:/texlive/2021/texmf-dist/tex/latex/tex-gyre/t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 )
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 4.49997pt on input line 33.
+(Font)              scaled to size 4.49997pt on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 33.
+(Font)              <8> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 33.
+(Font)              <6> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 33.
+(Font)              <5> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 33.
+(Font)              <7> on input line 32.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.0pt on input line 36.
+(Font)              scaled to size 10.0pt on input line 35.
  [1{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input lin
-e 51.
+e 50.
 
 (c:/texlive/2021/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 51.
+(Font)              scaled to size 10.0pt on input line 50.
 
 Underfull \vbox (badness 7203) has occurred while \output is active []
 
@@ -590,99 +288,106 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3]
 [4] [5]
-<fig_map.pdf, id=27, 451.6875pt x 433.62pt>
+<fig_map.pdf, id=24, 451.6875pt x 433.62pt>
 File: fig_map.pdf Graphic file (type pdf)
 <use fig_map.pdf>
-Package pdftex.def Info: fig_map.pdf  used on input line 70.
+Package pdftex.def Info: fig_map.pdf  used on input line 67.
 (pdftex.def)             Requested size: 338.0pt x 324.49962pt.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 8.0pt on input line 71.
-
-Underfull \vbox (badness 3769) has occurred while \output is active []
-
- [6]
-[7 <./fig_map.pdf>]
+(Font)              scaled to size 8.0pt on input line 68.
+ [6 <./fig_map.pdf>]
 LaTeX Font Info:    Trying to load font information for T1+ntxtt on input line 
-91.
- (c:/texlive/2021/texmf-dist/tex/latex/newtx/t1ntxtt.fd
+88.
+
+(c:/texlive/2021/texmf-dist/tex/latex/newtx/t1ntxtt.fd
 File: t1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 10.0pt on input line 91.
+(Font)              scaled to size 10.0pt on input line 88.
 
 
 pdfTeX warning: pdflatex.exe (file ./Tab_Old14C.pdf): PDF inclusion: found PDF 
 version <1.7>, but at most version <1.5> allowed
-<Tab_Old14C.pdf, id=42, 452.32288pt x 602.98775pt>
+<Tab_Old14C.pdf, id=35, 452.32288pt x 602.98775pt>
 File: Tab_Old14C.pdf Graphic file (type pdf)
 <use Tab_Old14C.pdf>
-Package pdftex.def Info: Tab_Old14C.pdf  used on input line 95.
+Package pdftex.def Info: Tab_Old14C.pdf  used on input line 92.
 (pdftex.def)             Requested size: 304.19794pt x 405.52704pt.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 8.0pt on input line 96.
+(Font)              scaled to size 8.0pt on input line 93.
 
 
 pdfTeX warning: pdflatex.exe (file ./Tab_New14C.pdf): PDF inclusion: found PDF 
 version <1.7>, but at most version <1.5> allowed
-<Tab_New14C.pdf, id=43, 472.2403pt x 87.99374pt>
+<Tab_New14C.pdf, id=36, 472.2403pt x 87.99374pt>
 File: Tab_New14C.pdf Graphic file (type pdf)
 <use Tab_New14C.pdf>
-Package pdftex.def Info: Tab_New14C.pdf  used on input line 102.
+Package pdftex.def Info: Tab_New14C.pdf  used on input line 99.
 (pdftex.def)             Requested size: 304.19794pt x 56.68369pt.
-[8] [9 <./Tab_Old14C.pdf> <./Tab_New14C.pdf
+[7] [8 <./Tab_Old14C.pdf> <./Tab_New14C.pdf
 
 pdfTeX warning: pdflatex.exe (file ./Tab_New14C.pdf): PDF inclusion: multiple p
 dfs with page group included in a single page
->]
-<fig_chronology.pdf, id=74, 433.62pt x 578.16pt>
+>] [9]
+<fig_chronology.pdf, id=71, 433.62pt x 578.16pt>
 File: fig_chronology.pdf Graphic file (type pdf)
 <use fig_chronology.pdf>
-Package pdftex.def Info: fig_chronology.pdf  used on input line 125.
+Package pdftex.def Info: fig_chronology.pdf  used on input line 122.
 (pdftex.def)             Requested size: 338.0pt x 450.6895pt.
-<Sangha_Typen.pdf, id=75, 597.50731pt x 586.68985pt>
+<Sangha_Typen.pdf, id=72, 597.50731pt x 586.68985pt>
 File: Sangha_Typen.pdf Graphic file (type pdf)
 <use Sangha_Typen.pdf>
-Package pdftex.def Info: Sangha_Typen.pdf  used on input line 131.
+Package pdftex.def Info: Sangha_Typen.pdf  used on input line 129.
 (pdftex.def)             Requested size: 338.0pt x 331.88322pt.
  [10] [11 <./fig_chronology.pdf>] [12 <./Sangha_Typen.pdf>]
-<fig_map_time_slices_1_eia.pdf, id=223, 813.0375pt x 1174.3875pt>
+<fig_map_time_slices_1_eia.pdf, id=220, 813.0375pt x 1174.3875pt>
 File: fig_map_time_slices_1_eia.pdf Graphic file (type pdf)
 <use fig_map_time_slices_1_eia.pdf>
-Package pdftex.def Info: fig_map_time_slices_1_eia.pdf  used on input line 152.
+Package pdftex.def Info: fig_map_time_slices_1_eia.pdf  used on input line 150.
 
 (pdftex.def)             Requested size: 338.0pt x 488.22188pt.
  [13] [14 <./fig_map_time_slices_1_eia.pdf>] [15]
-<Ubangi_Typen.pdf, id=241, 597.50731pt x 653.38605pt>
+<Ubangi_Typen.pdf, id=238, 597.50731pt x 653.38605pt>
 File: Ubangi_Typen.pdf Graphic file (type pdf)
 <use Ubangi_Typen.pdf>
-Package pdftex.def Info: Ubangi_Typen.pdf  used on input line 176.
+Package pdftex.def Info: Ubangi_Typen.pdf  used on input line 174.
 (pdftex.def)             Requested size: 338.0pt x 369.61244pt.
- [16] [17 <./Ubangi_Typen.pdf>] [18]
-<fig_map_time_slices_2_lia.pdf, id=405, 813.0375pt x 1174.3875pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16 <./Ubangi_Typen.pdf>]
+Underfull \vbox (badness 6775) has occurred while \output is active []
+
+ [17]
+<fig_map_time_slices_2_lia.pdf, id=399, 813.0375pt x 1174.3875pt>
 File: fig_map_time_slices_2_lia.pdf Graphic file (type pdf)
 <use fig_map_time_slices_2_lia.pdf>
-Package pdftex.def Info: fig_map_time_slices_2_lia.pdf  used on input line 205.
+Package pdftex.def Info: fig_map_time_slices_2_lia.pdf  used on input line 201.
 
 (pdftex.def)             Requested size: 338.0pt x 488.22188pt.
-<Ngoko-Trad_Typen.pdf, id=406, 374.13075pt x 341.10738pt>
+
+[18] [19 <./fig_map_time_slices_2_lia.pdf>]
+<Ngoko-Trad_Typen.pdf, id=415, 374.13075pt x 341.10738pt>
 File: Ngoko-Trad_Typen.pdf Graphic file (type pdf)
 <use Ngoko-Trad_Typen.pdf>
-Package pdftex.def Info: Ngoko-Trad_Typen.pdf  used on input line 220.
+Package pdftex.def Info: Ngoko-Trad_Typen.pdf  used on input line 216.
 (pdftex.def)             Requested size: 202.80206pt x 184.90309pt.
- [19]
-[20 <./fig_map_time_slices_2_lia.pdf>] [21 <./Ngoko-Trad_Typen.pdf>] [22]
-[23] [24] [25] [26] [27]
-<fig_ubangi_chrono.pdf, id=503, 525.965pt x 325.215pt>
+ [20 <./Ngoko-Trad_Typen.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]
+[22] [23] [24] [25] [26] [27]
+<fig_ubangi_chrono.pdf, id=500, 525.965pt x 325.215pt>
 File: fig_ubangi_chrono.pdf Graphic file (type pdf)
 <use fig_ubangi_chrono.pdf>
-Package pdftex.def Info: fig_ubangi_chrono.pdf  used on input line 287.
+Package pdftex.def Info: fig_ubangi_chrono.pdf  used on input line 285.
 (pdftex.def)             Requested size: 338.0pt x 209.00034pt.
  [28] [29 <./fig_ubangi_chrono.pdf>]
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 8.0pt on input line 311.
+(Font)              scaled to size 8.0pt on input line 309.
 
 (./PikundaMunda-BatalimoMaluba_Paper.bbl [30]
-Underfull \hbox (badness 1014) in paragraph at lines 27--29
+Underfull \hbox (badness 1014) in paragraph at lines 36--38
 []\T1/ntxtlf/m/n/8 Bequaert M (1938) Matériel archéologique de l'Ubanghi. Bul-l
 etin de la So-ciété royale Belge
  []
@@ -705,13 +410,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [35])
 [36] (./PikundaMunda-BatalimoMaluba_Paper.aux) ) 
 Here is how much of TeX's memory you used:
- 15173 strings out of 478353
- 302298 string characters out of 5852101
- 591519 words of memory out of 5000000
- 33032 multiletter control sequences out of 15000+600000
+ 4357 strings out of 478353
+ 68761 string characters out of 5852101
+ 387024 words of memory out of 5000000
+ 22442 multiletter control sequences out of 15000+600000
  440069 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,8n,94p,2605b,559s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,8n,62p,2666b,561s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2021/texmf-dist/fon
 ts/enc/dvips/tex-gyre/q-ts1.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/new
 tx/ntx-ec-tlf.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc
@@ -723,11 +428,11 @@ blic/tex-gyre/qtmr.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/txfonts/t
 1xtt.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/newtx/ztmb.pfb><c:/texl
 ive/2021/texmf-dist/fonts/type1/public/newtx/ztmr.pfb><c:/texlive/2021/texmf-di
 st/fonts/type1/public/newtx/ztmri.pfb>
-Output written on PikundaMunda-BatalimoMaluba_Paper.pdf (36 pages, 74640798 byt
+Output written on PikundaMunda-BatalimoMaluba_Paper.pdf (36 pages, 74637483 byt
 es).
 PDF statistics:
- 584 PDF objects out of 1000 (max. 8388607)
- 197 compressed objects within 2 object streams
+ 581 PDF objects out of 1000 (max. 8388607)
+ 194 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 63 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 

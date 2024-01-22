@@ -133,7 +133,7 @@ p <- ggplot() +
           fill = "#73a788", color = NA) + 
   #geom_sf(data = sf::st_union(rainforest) %>% st_crop(xmin = 12.5, xmax = 25.5, ymin = -6.5, ymax = 6.5), 
   #        fill = "#00734d", color = NA, alpha = .4) + 
-  geom_sf(data = refugia, fill = "#478966", color = NA) + 
+  #geom_sf(data = refugia, fill = "#478966", color = NA) + 
   #geom_text(aes(x = 22, y = 0), label = "?", size = 10, color = "#248823") + 
   #geom_sf(data = coast10, size = .5, color = '#44afe3') + 
   geom_sf(data = osm.rivers.lines, size = .5, color = '#44afe3') + 
@@ -172,15 +172,15 @@ p <- ggplot() +
   annotate("text", x = 15.75, y = 4, label = "KADÉÏ", fontface  = "bold", colour = "white", size = 2, angle = -35) + 
   
   # LEGEND
-  geom_rect(aes(xmin = 15.15, xmax = 18, ymin = -3.4, ymax = -4.6), fill = "White", color = "grey") +
+  geom_rect(aes(xmin = 15.15, xmax = 18, ymin = -3.7, ymax = -4.6), fill = "White", color = "grey") +
   
-  geom_segment(aes(x = 15.2, xend = 15.55, y = -3.55, yend = -3.55), 
+  geom_segment(aes(x = 15.2, xend = 15.55, y = -3.85, yend = -3.85), 
                color = "#782172", linetype = "dashed") + 
-  annotate("text", x = 15.6, y = -3.55, label = paste("Congo Basin"), hjust = 0, size = 2) + 
-  geom_rect(aes(xmin = 15.2, xmax = 15.55, ymin = -3.7, ymax = -3.9), fill = "#73a788", color = NA) + 
-  annotate("text", x = 15.6, y = -3.8, label = paste("Rainforest"), hjust = 0, size = 2) + 
-  geom_rect(aes(xmin = 15.2, xmax = 15.55, ymin = -4, ymax = -4.2), fill = "#478966", color = NA) + 
-  annotate("text", x = 15.6, y = -4.1, label = paste("Rainforest Refugia"), hjust = 0, size = 2) + 
+  annotate("text", x = 15.6, y = -3.85, label = paste("Congo Basin"), hjust = 0, size = 2) + 
+  geom_rect(aes(xmin = 15.2, xmax = 15.55, ymin = -4, ymax = -4.2), fill = "#73a788", color = NA) + 
+  annotate("text", x = 15.6, y = -4.1, label = paste("Rainforest"), hjust = 0, size = 2) + 
+  #geom_rect(aes(xmin = 15.2, xmax = 15.55, ymin = -4, ymax = -4.2), fill = "#478966", color = NA) + 
+  #annotate("text", x = 15.6, y = -4.1, label = paste("Rainforest Refugia"), hjust = 0, size = 2) + 
   geom_rect(aes(xmin = 15.2, xmax = 15.55, ymin = -4.3, ymax = -4.5), fill = "#e3e3e3", color = NA) + 
   annotate("text", x = 15.6, y = -4.4, label = paste("Topography above 500 m MSL"), hjust = 0, size = 2) + 
 
