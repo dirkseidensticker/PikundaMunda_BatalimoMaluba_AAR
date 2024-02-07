@@ -162,7 +162,7 @@ p <- ggplot() +
   annotate("text", x = 22.25, y = 2.3, label = "CONGO", fontface  = "bold", colour = "white", size = 2) + 
   annotate("text", x = 19.7, y = 5.3, label = "UBANGI", fontface  = "bold", colour = "grey30", size = 2) + 
   annotate("text", x = 17.875, y = 1.8, label = "UBANGI", fontface  = "bold", colour = "white", size = 2, angle = 80) + 
-  annotate("text", x = 19, y = 3, label = "LUA", fontface  = "bold", colour = "white", size = 2, angle =  15) + 
+  annotate("text", x = 19.3, y = 4, label = "LUA", fontface  = "bold", colour = "grey30", size = 2, angle = 45) + 
   annotate("text", x = 23, y = -1.2, label = "TSHUAPA", fontface  = "bold", colour = "white", size = 2, angle = -25) + 
   annotate("text", x = 24, y = 3.85, label = "UELE", fontface  = "bold", colour = "white", size = 2) + 
   annotate("text", x = 19.5, y = -4.2, label = "KASAÏ", fontface  = "bold", colour = "white", size = 2, angle = -20) + 
@@ -199,4 +199,5 @@ cowplot::ggdraw() +
 
 ggsave("fig/fig_map.jpg", width = 6.25, height = 6, bg = "white")
 ggsave("fig_map.pdf", width = 6.25, height = 6, bg = "white")
+
 
