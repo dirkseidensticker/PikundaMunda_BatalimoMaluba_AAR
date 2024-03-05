@@ -26,6 +26,13 @@ bb <- c(xmin = 14, xmax = 26, ymin = -6, ymax = 6)
 rivers10 <- rnaturalearth::ne_download(scale = 10, type = "rivers_lake_centerlines", category = "physical", returnclass="sf") %>% sf::st_crop(bb)
 lakes10 <- rnaturalearth::ne_download(scale = 10, type = "lakes", category = "physical", returnclass="sf")
 
+osm.rivers.lines <- geojsonsf::geojson_sf("data/gis/OSM_river_lines.geojson") %>% sf::st_crop(bb)
+sf_use_s2(FALSE)
+osm.rivers.poly <- geojsonsf::geojson_sf("data/gis/OSM_river_lakes_poly.geojson") %>%
+  sf::st_make_valid() %>% sf::st_crop(bb)
+sf_use_s2(TRUE)
+osm.coast.line <- geojsonsf::geojson_sf("data/gis/OSM_coast_lines.geojson") %>% sf::st_crop(bb)
+
 breaks <- seq(-400, 2000, 200)
 class <- seq(1,length(breaks), 1)
 breaks <- data.frame(breaks, class)
@@ -57,8 +64,10 @@ for(i in 1:(nrow(breaks)-1)){
   cols <- sites.sel %>% dplyr::distinct(POTTERY, COL) %>% dplyr::arrange(POTTERY) %>% dplyr::pull(COL)
   
   p[[i]] <- ggplot() + 
-    geom_sf(data = rivers10, size = .5, color = 'grey') + 
-    geom_sf(data = lakes10, fill = 'grey', color = NA) + 
+    geom_sf(data = osm.rivers.lines, size = .5, color = 'grey') + 
+    geom_sf(data = osm.rivers.poly, size = .5, fill = 'grey', color = 'grey') + 
+    #geom_sf(data = rivers10, size = .5, color = 'grey') + 
+    #geom_sf(data = lakes10, fill = 'grey', color = NA) + 
     scatterpie::geom_scatterpie(data = sites.sel.w, 
                                 aes(x = LONG, y = LAT), 
                                 cols = names(sites.sel.w[4:ncol(sites.sel.w)])) + 

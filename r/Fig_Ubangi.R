@@ -10,6 +10,13 @@ rivers10 <- rnaturalearth::ne_download(scale = 10, type = "rivers_lake_centerlin
 lakes10 <- rnaturalearth::ne_download(scale = 10, type = "lakes", category = "physical", returnclass="sf")
 boundary_lines_land10 <- rnaturalearth::ne_download(scale = 10, type = "boundary_lines_land", category = "cultural", returnclass="sf")
 
+osm.rivers.lines <- geojsonsf::geojson_sf("data/gis/OSM_river_lines.geojson") %>% sf::st_crop(bb)
+sf_use_s2(FALSE)
+osm.rivers.poly <- geojsonsf::geojson_sf("data/gis/OSM_river_lakes_poly.geojson") %>%
+  sf::st_make_valid() %>% sf::st_crop(bb)
+sf_use_s2(TRUE)
+osm.coast.line <- geojsonsf::geojson_sf("data/gis/OSM_coast_lines.geojson") %>% sf::st_crop(bb)
+
 sites <- data.table::fread(
   "https://raw.githubusercontent.com/dirkseidensticker/aSCAC/master/sites.csv", 
   encoding = "UTF-8") %>%
@@ -84,8 +91,8 @@ pottery.ubangi <- sites.ubangi %>%
 plt.map <- ggplot() + 
   geom_sf(data = rainforest %>% sf::st_union(), fill = "#73a788", color = NA) + 
   geom_sf(data = refugia, fill = "#478966", color = NA) + 
-  geom_sf(data = rivers10, size = 1, color = '#44afe3') + 
-  geom_sf(data = lakes10, fill = '#44afe3', color = NA) + 
+  geom_sf(data = osm.rivers.lines, size = .5, color = '#44afe3') + 
+  geom_sf(data = osm.rivers.poly, size = .5, fill = '#44afe3', color = '#44afe3') + 
   geom_sf(data = boundary_lines_land10, size = .2, color = 'white') + 
   #geom_sf(data = ubangi.buffer, fill = NA) + 
   geom_sf(data = sites) + 

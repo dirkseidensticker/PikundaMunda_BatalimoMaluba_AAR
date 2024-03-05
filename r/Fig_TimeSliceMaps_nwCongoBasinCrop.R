@@ -24,12 +24,14 @@ pottery <- rbind(
 bb <- c(xmin = 15.25, xmax = 20.5, ymin = -1.5, ymax = 5.5)
 
 osm.rivers.lines <- geojsonsf::geojson_sf("data/gis/OSM_river_lines.geojson") %>% sf::st_crop(bb)
+sf_use_s2(FALSE)
 osm.rivers.poly <- geojsonsf::geojson_sf("data/gis/OSM_river_lakes_poly.geojson") %>%
-  sf::st_make_valid() # %>% sf::st_union() %>% sf::st_crop(bb)
+  sf::st_make_valid() %>% sf::st_crop(bb)
+sf_use_s2(TRUE)
 osm.coast.line <- geojsonsf::geojson_sf("data/gis/OSM_coast_lines.geojson") %>% sf::st_crop(bb)
 
 rivers10 <- rnaturalearth::ne_download(scale = 10, type = "rivers_lake_centerlines", category = "physical", returnclass="sf") %>% sf::st_crop(bb)
-lakes10 <- rnaturalearth::ne_download(scale = 10, type = "lakes", category = "physical", returnclass="sf")
+lakes10 <- rnaturalearth::ne_download(scale = 10, type = "lakes", category = "physical", returnclass="sf") %>% sf::st_make_valid() %>% sf::st_crop(bb)
 
 breaks <- seq(-400, 2000, 200)
 class <- seq(1,length(breaks), 1)

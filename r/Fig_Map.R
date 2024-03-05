@@ -14,8 +14,10 @@ coast10 <- rnaturalearth::ne_download(scale = 10, type = "coastline", category =
 boundary_lines_land10 <- rnaturalearth::ne_download(scale = 10, type = "boundary_lines_land", category = "cultural", returnclass="sf") %>% sf::st_crop(bb)
 
 osm.rivers.lines <- geojsonsf::geojson_sf("data/gis/OSM_river_lines.geojson") %>% sf::st_crop(bb)
+sf_use_s2(FALSE)
 osm.rivers.poly <- geojsonsf::geojson_sf("data/gis/OSM_river_lakes_poly.geojson") %>%
-  sf::st_make_valid() # %>% sf::st_union() %>% sf::st_crop(bb)
+  sf::st_make_valid() %>% sf::st_crop(bb)
+sf_use_s2(TRUE)
 osm.coast.line <- geojsonsf::geojson_sf("data/gis/OSM_coast_lines.geojson") %>% sf::st_crop(bb)
 
 rainforest <- geojsonsf::geojson_sf("data/white1983.geojson") %>%
