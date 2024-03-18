@@ -3,48 +3,49 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: PikundaMunda-BatalimoMaluba_Paper.aux
 The style file: spbasic.bst
 Database file #1: references.bib
+Warning--I didn't find a database entry for "Fortes-Lima.2023a"
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--missing publisher in Maley.2004
 Warning--missing publisher in Vennetier.1963
-You've used 125 entries,
+You've used 124 entries,
             3269 wiz_defined-function locations,
-            1554 strings with 37195 characters,
-and the built_in function-call counts, 158009 in all, are:
-= -- 14444
-> -- 4389
-< -- 98
-+ -- 1579
-- -- 1395
-* -- 14228
-:= -- 21263
-add.period$ -- 122
-call.type$ -- 125
-change.case$ -- 1088
-chr.to.int$ -- 122
-cite$ -- 127
-duplicate$ -- 14217
-empty$ -- 14817
-format.name$ -- 1671
-if$ -- 33429
+            1557 strings with 36318 characters,
+and the built_in function-call counts, 153288 in all, are:
+= -- 14048
+> -- 4117
+< -- 96
++ -- 1486
+- -- 1305
+* -- 13767
+:= -- 20628
+add.period$ -- 121
+call.type$ -- 124
+change.case$ -- 1054
+chr.to.int$ -- 121
+cite$ -- 126
+duplicate$ -- 13829
+empty$ -- 14446
+format.name$ -- 1578
+if$ -- 32432
 int.to.chr$ -- 4
 int.to.str$ -- 1
-missing$ -- 1449
-newline$ -- 385
-num.names$ -- 536
-pop$ -- 3044
+missing$ -- 1418
+newline$ -- 382
+num.names$ -- 532
+pop$ -- 2924
 preamble$ -- 1
-purify$ -- 948
+purify$ -- 914
 quote$ -- 0
-skip$ -- 2321
+skip$ -- 2262
 stack$ -- 0
-substring$ -- 19266
-swap$ -- 3246
-text.length$ -- 23
+substring$ -- 18729
+swap$ -- 3194
+text.length$ -- 21
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1068
+type$ -- 1062
 warning$ -- 2
-while$ -- 1167
+while$ -- 1136
 width$ -- 0
-write$ -- 1434
-(There were 2 warnings)
+write$ -- 1428
+(There were 3 warnings)

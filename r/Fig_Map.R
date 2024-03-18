@@ -36,8 +36,8 @@ refugia <- geojsonsf::geojson_sf("data/Bremond_etal2017Fig1.geojson")
 library(elevatr)
 
 # setting up boundig box
-locations <- data.frame(X1 = c(12, 26), 
-                        X2 = c(6.5, -6.5))  
+locations <- data.frame(x = c(12, 26), 
+                        y = c(6.5, -6.5))  
 
 # get gem
 dem <- elevatr::get_elev_raster(locations = locations, 
@@ -184,6 +184,8 @@ p <- ggplot() +
   #geom_rect(aes(xmin = 15.2, xmax = 15.55, ymin = -4, ymax = -4.2), fill = "#478966", color = NA) + 
   #annotate("text", x = 15.6, y = -4.1, label = paste("Rainforest Refugia"), hjust = 0, size = 2) + 
   geom_rect(aes(xmin = 15.2, xmax = 15.55, ymin = -4.3, ymax = -4.5), fill = "#e3e3e3", color = NA) + 
+  #geom_rect(aes(xmin = 15.2, xmax = 15.375, ymin = -4.3, ymax = -4.5), fill = "#e3e3e3", color = NA) + 
+  #geom_rect(aes(xmin = 15.375, xmax = 15.55, ymin = -4.3, ymax = -4.5), fill = "#669579", color = NA) + 
   annotate("text", x = 15.6, y = -4.4, label = paste("Topography above 500 m MSL"), hjust = 0, size = 2) + 
 
   coord_sf(xlim = c(15.5, 25), 
@@ -203,3 +205,84 @@ ggsave("fig/fig_map.jpg", width = 6.25, height = 6, bg = "white")
 ggsave("fig_map.pdf", width = 6.25, height = 6, bg = "white")
 
 
+
+
+# Map ----
+
+p <- ggplot() + 
+  geom_sf(data = ocean10, fill = "#dff1f9", color = NA) + 
+  geom_sf(data = sf::st_union(rainforest), 
+          fill = "#73a788", color = NA) + 
+  #ggnewscale::new_scale_fill() + 
+  geom_tile(data = dem_df %>% dplyr::filter(z > 500), 
+            aes(x = x, y = y), fill = "black", color = NA, alpha = .11) +  
+  #scale_fill_grey(start = 1, end = .75, na.value = 0) +
+  #geom_sf(data = sf::st_union(rainforest) %>% st_crop(xmin = 12.5, xmax = 25.5, ymin = -6.5, ymax = 6.5), 
+  #        fill = "#00734d", color = NA, alpha = .4) + 
+  #geom_sf(data = refugia, fill = "#478966", color = NA) + 
+  #geom_text(aes(x = 22, y = 0), label = "?", size = 10, color = "#248823") + 
+  #geom_sf(data = coast10, size = .5, color = '#44afe3') + 
+  geom_sf(data = osm.rivers.lines, size = .5, color = '#44afe3') + 
+  geom_sf(data = osm.rivers.poly, size = .5, fill = '#44afe3', color = '#44afe3') + 
+  geom_sf(data = lakes10, fill = '#44afe3', color = NA) + 
+  geom_sf(data = boundary_lines_land10, size = .2, color = 'white', linetype = "dashed") + 
+  geom_sf(data = cb.comb, fill = NA, color = "#782172", linetype = "dashed", linewidth = .5) + 
+  geom_point(data = sites, aes(x = LONG, y = LAT), shape = 21, fill = "white", color = "black", size = 2) + 
+  geom_label_repel(data = sites.text, 
+                   aes(x = LONG, y = LAT, label = SITE), 
+                   size = 2.5, 
+                   label.padding = 0.1, min.segment.length = 0, 
+                   fill = "black", color = "white") + 
+  geom_point(data = sites.text, aes(x = LONG, y = LAT), shape = 21, fill = "black", color = "white", size = 3) + 
+  
+  shadowtext::geom_shadowtext(aes(x = 16, y = 0), label = "Western\nCongo\nBasin", fontface  = "bold", colour = "white", size = 3) + 
+  shadowtext::geom_shadowtext(aes(x = 20.5, y = 4), label = "Northern\nCongo\nBasin", fontface  = "bold", colour = "white", size = 3) + 
+  shadowtext::geom_shadowtext(aes(x = 20.1, y = .5), label = "Inner\nCongo\nBasin", fontface  = "bold", colour = "white", size = 3) + 
+  shadowtext::geom_shadowtext(aes(x = 24.5, y = 0), label = "Eastern\nCongo\nBasin", fontface  = "bold", colour = "white", size = 3) + 
+  
+  # COUNTRY NAMES
+  annotate("text", x = 22, y = 5.2, label = "Central Africa Rep.", fontface  = "bold", colour = "#485063") + 
+  annotate("text", x = 16, y = -1, label = "Rep. Congo", fontface  = "bold", colour = "#485063") + 
+  annotate("text", x = 22.5, y = -2, label = "Dem. Rep. Congo", fontface  = "bold", colour = "#485063") + 
+  # RIVER NAMES
+  annotate("text", x = 22.25, y = 2.3, label = "CONGO", fontface  = "bold", colour = "white", size = 2) + 
+  annotate("text", x = 19.7, y = 5.3, label = "UBANGI", fontface  = "bold", colour = "grey30", size = 2) + 
+  annotate("text", x = 17.875, y = 1.8, label = "UBANGI", fontface  = "bold", colour = "white", size = 2, angle = 80) + 
+  annotate("text", x = 19.3, y = 4, label = "LUA", fontface  = "bold", colour = "grey30", size = 2, angle = 45) + 
+  annotate("text", x = 23, y = -1.2, label = "TSHUAPA", fontface  = "bold", colour = "white", size = 2, angle = -25) + 
+  annotate("text", x = 24, y = 3.85, label = "UELE", fontface  = "bold", colour = "white", size = 2) + 
+  annotate("text", x = 19.5, y = -4.2, label = "KASAÏ", fontface  = "bold", colour = "white", size = 2, angle = -20) + 
+  annotate("text", x = 16.5, y = 1.5, label = "SANGHA", fontface  = "bold", colour = "white", size = 2, angle = -45) + 
+  annotate("text", x = 15.5, y = 2.15, label = "NGOKO", fontface  = "bold", colour = "white", size = 2, angle = -15) + 
+  annotate("text", x = 17.15, y = 1.85, label = "LIKWALA-\nAUX-HERBES", fontface  = "bold", colour = "white", size = 2, angle = -80) + 
+  annotate("text", x = 15.75, y = 4, label = "KADÉÏ", fontface  = "bold", colour = "white", size = 2, angle = -35) + 
+  
+  # LEGEND
+  geom_rect(aes(xmin = 15.15, xmax = 18, ymin = -3.7, ymax = -4.6), fill = "White", color = "grey") +
+  
+  geom_segment(aes(x = 15.2, xend = 15.55, y = -3.85, yend = -3.85), 
+               color = "#782172", linetype = "dashed") + 
+  annotate("text", x = 15.6, y = -3.85, label = paste("Congo Basin"), hjust = 0, size = 2) + 
+  geom_rect(aes(xmin = 15.2, xmax = 15.55, ymin = -4, ymax = -4.2), fill = "#73a788", color = NA) + 
+  annotate("text", x = 15.6, y = -4.1, label = paste("Rainforest"), hjust = 0, size = 2) + 
+  #geom_rect(aes(xmin = 15.2, xmax = 15.55, ymin = -4, ymax = -4.2), fill = "#478966", color = NA) + 
+  #annotate("text", x = 15.6, y = -4.1, label = paste("Rainforest Refugia"), hjust = 0, size = 2) + 
+  geom_rect(aes(xmin = 15.2, xmax = 15.55, ymin = -4.3, ymax = -4.5), fill = "#e3e3e3", color = NA) + 
+  #geom_rect(aes(xmin = 15.2, xmax = 15.375, ymin = -4.3, ymax = -4.5), fill = "#e3e3e3", color = NA) + 
+  #geom_rect(aes(xmin = 15.375, xmax = 15.55, ymin = -4.3, ymax = -4.5), fill = "#669579", color = NA) + 
+  annotate("text", x = 15.6, y = -4.4, label = paste("Topography above 500 m MSL"), hjust = 0, size = 2) + 
+  
+  coord_sf(xlim = c(15.5, 25), 
+           ylim = c(-4.25, 5), 
+           label_graticule = "SE") + 
+  theme_bw() +
+  theme(legend.position = "none",
+        panel.grid = element_blank(), 
+        axis.title = element_blank())
+
+cowplot::ggdraw() +
+  draw_plot(p) +
+  draw_plot(minimap, 
+            x = .74, y = .055, width = .2, height = .2)
+
+ggsave("fig/fig_map-alt.jpg", width = 6.25, height = 6, bg = "white")

@@ -50,7 +50,6 @@ c14 <- rbind(
     encoding = "UTF-8"),
   data.table::fread(
     "data/aDRAC_new.csv", 
-    dec = ",", 
     encoding = "UTF-8")
 ) %>%
   dplyr::mutate(C14AGE = as.numeric(C14AGE), 
